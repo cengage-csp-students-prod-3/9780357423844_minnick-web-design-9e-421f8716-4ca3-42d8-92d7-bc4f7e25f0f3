@@ -1,7 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add the `charset` attribute to the `meta` tag and specify the character set as **UTF-8** as follows: `<meta charset="utf-8">` 
-Reason: Assertion failed: The charset attribute is not set to 'utf-8'
-Error : AssertionError - The charset attribute is not set to 'utf-8'
-Timestamp: 2026-01-16 14:56:32.423436
+Reason: None
+Timestamp: 2026-01-16 14:57:53.044975
