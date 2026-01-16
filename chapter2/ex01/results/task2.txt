@@ -3,16 +3,16 @@ Status: PASSED!
 Check: 1
 Test: Add your name (firstname lastname) to the multi-line comment to *template.html*
 Reason: 'Student Name: {YOUR NAME}' was found in the program output.None
-Timestamp: 2026-01-16 14:59:00.751920
+Timestamp: 2026-01-16 15:01:50.491423
 
 Status: PASSED!
 Check: 2
 Test: Add the filename to the multi-line comment to *template.html*
 Reason: 'File Name: template.html' was found in the program output.None
-Timestamp: 2026-01-16 14:59:00.752199
+Timestamp: 2026-01-16 15:01:50.491698
 
 Status: PASSED!
 Check: 3
 Test: Add today's date (MM/DD/YYYY) to the multi-line comment to *template.html*
 Reason: 'Date: {MM/DD/YYYY}' was found in the program output.None
-Timestamp: 2026-01-16 14:59:00.752403
+Timestamp: 2026-01-16 15:01:50.491911
