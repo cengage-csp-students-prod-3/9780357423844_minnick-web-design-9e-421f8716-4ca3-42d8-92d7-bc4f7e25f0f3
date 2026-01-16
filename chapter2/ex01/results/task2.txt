@@ -1,21 +1,19 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add your name (firstname lastname) to the multi-line comment to *template.html*
-Reason: Unable to find 'Student Name: {YOUR NAME}' in the program.
-Error : str - AssertionError
-Timestamp: 2026-01-16 14:47:37.666010
+Reason: 'Student Name: {YOUR NAME}' was found in the program output.None
+Timestamp: 2026-01-16 14:52:23.995177
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Add the filename to the multi-line comment to *template.html*
-Reason: Unable to find 'File Name: template.html' in the program.
-Error : str - AssertionError
-Timestamp: 2026-01-16 14:47:37.666413
+Reason: 'File Name: template.html' was found in the program output.None
+Timestamp: 2026-01-16 14:52:23.995454
 
 Status: FAILED!
 Check: 3
 Test: Add today's date (MM/DD/YYYY) to the multi-line comment to *template.html*
 Reason: Unable to find 'Date: {MM/DD/YYYY}' in the program.
 Error : str - AssertionError
-Timestamp: 2026-01-16 14:47:37.666704
+Timestamp: 2026-01-16 14:52:23.995704
