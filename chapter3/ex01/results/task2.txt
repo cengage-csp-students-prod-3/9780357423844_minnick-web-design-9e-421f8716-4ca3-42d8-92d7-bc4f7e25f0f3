@@ -1,0 +1,35 @@
+
+Status: FAILED!
+Check: 1
+Test: The nav element contains a hyperlink to index.html with the text 'Home'.
+Reason: Assertion failed: The anchor element with the text 'Home' is missing.
+Error : AssertionError - The anchor element with the text 'Home' is missing.
+Timestamp: 2026-01-23 15:10:10.454899
+
+Status: FAILED!
+Check: 2
+Test: The nav element contains a hyperlink to lessons.html with the text 'Lessons'.
+Reason: Assertion failed: The anchor element with the text 'Lessons' is missing.
+Error : AssertionError - The anchor element with the text 'Lessons' is missing.
+Timestamp: 2026-01-23 15:10:10.456057
+
+Status: FAILED!
+Check: 3
+Test: The nav element contains a hyperlink to instructors.html with the text 'Instructors'.
+Reason: Assertion failed: The anchor element with the text 'Instructors' is missing.
+Error : AssertionError - The anchor element with the text 'Instructors' is missing.
+Timestamp: 2026-01-23 15:10:10.456980
+
+Status: FAILED!
+Check: 4
+Test: The nav element contains a hyperlink to rentals.html with the text 'Rentals'.
+Reason: Assertion failed: The anchor element with the text 'Rentals' is missing.
+Error : AssertionError - The anchor element with the text 'Rentals' is missing.
+Timestamp: 2026-01-23 15:10:10.457866
+
+Status: FAILED!
+Check: 5
+Test: The nav element contains a hyperlink to contact.html with the text 'Contact'.
+Reason: Assertion failed: The hyperlink does not open contact.html.
+Error : AssertionError - The hyperlink does not open contact.html.
+Timestamp: 2026-01-23 15:10:10.458837
