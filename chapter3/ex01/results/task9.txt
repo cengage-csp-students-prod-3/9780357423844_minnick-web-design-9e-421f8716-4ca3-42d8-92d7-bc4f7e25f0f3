@@ -5,52 +5,52 @@ Test: Below the `info` `div`, add a new `div` element with an `id` attribute of 
 Reason: InvalidArgumentException occurred: Message: invalid argument
   (Session info: chrome=144.0.7559.59)
 Stacktrace:
-#0 0x55eaac817c3a <unknown>
-#1 0x55eaac231720 <unknown>
-#2 0x55eaac218907 <unknown>
-#3 0x55eaac216b20 <unknown>
-#4 0x55eaac217190 <unknown>
-#5 0x55eaac23542d <unknown>
-#6 0x55eaac2d068b <unknown>
-#7 0x55eaac2cfa20 <unknown>
-#8 0x55eaac278be2 <unknown>
-#9 0x55eaac279991 <unknown>
-#10 0x55eaac7dda99 <unknown>
-#11 0x55eaac7e09b1 <unknown>
-#12 0x55eaac7ca0a9 <unknown>
-#13 0x55eaac7e156e <unknown>
-#14 0x55eaac7b05e0 <unknown>
-#15 0x55eaac805358 <unknown>
-#16 0x55eaac805528 <unknown>
-#17 0x55eaac816fa8 <unknown>
-#18 0x7f9d6a69caa4 <unknown>
-#19 0x7f9d6a729c6c <unknown>
+#0 0x55a070149c3a <unknown>
+#1 0x55a06fb63720 <unknown>
+#2 0x55a06fb4a907 <unknown>
+#3 0x55a06fb48b20 <unknown>
+#4 0x55a06fb49190 <unknown>
+#5 0x55a06fb6742d <unknown>
+#6 0x55a06fc0268b <unknown>
+#7 0x55a06fc01a20 <unknown>
+#8 0x55a06fbaabe2 <unknown>
+#9 0x55a06fbab991 <unknown>
+#10 0x55a07010fa99 <unknown>
+#11 0x55a0701129b1 <unknown>
+#12 0x55a0700fc0a9 <unknown>
+#13 0x55a07011356e <unknown>
+#14 0x55a0700e25e0 <unknown>
+#15 0x55a070137358 <unknown>
+#16 0x55a070137528 <unknown>
+#17 0x55a070148fa8 <unknown>
+#18 0x7f8fddc9caa4 <unknown>
+#19 0x7f8fddd29c6c <unknown>
 
 Error : InvalidArgumentException - Message: invalid argument
   (Session info: chrome=144.0.7559.59)
 Stacktrace:
-#0 0x55eaac817c3a <unknown>
-#1 0x55eaac231720 <unknown>
-#2 0x55eaac218907 <unknown>
-#3 0x55eaac216b20 <unknown>
-#4 0x55eaac217190 <unknown>
-#5 0x55eaac23542d <unknown>
-#6 0x55eaac2d068b <unknown>
-#7 0x55eaac2cfa20 <unknown>
-#8 0x55eaac278be2 <unknown>
-#9 0x55eaac279991 <unknown>
-#10 0x55eaac7dda99 <unknown>
-#11 0x55eaac7e09b1 <unknown>
-#12 0x55eaac7ca0a9 <unknown>
-#13 0x55eaac7e156e <unknown>
-#14 0x55eaac7b05e0 <unknown>
-#15 0x55eaac805358 <unknown>
-#16 0x55eaac805528 <unknown>
-#17 0x55eaac816fa8 <unknown>
-#18 0x7f9d6a69caa4 <unknown>
-#19 0x7f9d6a729c6c <unknown>
+#0 0x55a070149c3a <unknown>
+#1 0x55a06fb63720 <unknown>
+#2 0x55a06fb4a907 <unknown>
+#3 0x55a06fb48b20 <unknown>
+#4 0x55a06fb49190 <unknown>
+#5 0x55a06fb6742d <unknown>
+#6 0x55a06fc0268b <unknown>
+#7 0x55a06fc01a20 <unknown>
+#8 0x55a06fbaabe2 <unknown>
+#9 0x55a06fbab991 <unknown>
+#10 0x55a07010fa99 <unknown>
+#11 0x55a0701129b1 <unknown>
+#12 0x55a0700fc0a9 <unknown>
+#13 0x55a07011356e <unknown>
+#14 0x55a0700e25e0 <unknown>
+#15 0x55a070137358 <unknown>
+#16 0x55a070137528 <unknown>
+#17 0x55a070148fa8 <unknown>
+#18 0x7f8fddc9caa4 <unknown>
+#19 0x7f8fddd29c6c <unknown>
 
-Timestamp: 2026-01-23 15:40:04.425223
+Timestamp: 2026-01-23 15:42:40.315833
 
 Status: FAILED!
 Check: 2
@@ -58,48 +58,48 @@ Test: The `div` element with an `id` attribute of 'piano' contains an `h3` eleme
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano h3"}
   (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55eaac817c3a <unknown>
-#1 0x55eaac231969 <unknown>
-#2 0x55eaac286ead <unknown>
-#3 0x55eaac2870f1 <unknown>
-#4 0x55eaac2d27e4 <unknown>
-#5 0x55eaac2cfa20 <unknown>
-#6 0x55eaac278be2 <unknown>
-#7 0x55eaac279991 <unknown>
-#8 0x55eaac7dda99 <unknown>
-#9 0x55eaac7e09b1 <unknown>
-#10 0x55eaac7ca0a9 <unknown>
-#11 0x55eaac7e156e <unknown>
-#12 0x55eaac7b05e0 <unknown>
-#13 0x55eaac805358 <unknown>
-#14 0x55eaac805528 <unknown>
-#15 0x55eaac816fa8 <unknown>
-#16 0x7f9d6a69caa4 <unknown>
-#17 0x7f9d6a729c6c <unknown>
+#0 0x55a070149c3a <unknown>
+#1 0x55a06fb63969 <unknown>
+#2 0x55a06fbb8ead <unknown>
+#3 0x55a06fbb90f1 <unknown>
+#4 0x55a06fc047e4 <unknown>
+#5 0x55a06fc01a20 <unknown>
+#6 0x55a06fbaabe2 <unknown>
+#7 0x55a06fbab991 <unknown>
+#8 0x55a07010fa99 <unknown>
+#9 0x55a0701129b1 <unknown>
+#10 0x55a0700fc0a9 <unknown>
+#11 0x55a07011356e <unknown>
+#12 0x55a0700e25e0 <unknown>
+#13 0x55a070137358 <unknown>
+#14 0x55a070137528 <unknown>
+#15 0x55a070148fa8 <unknown>
+#16 0x7f8fddc9caa4 <unknown>
+#17 0x7f8fddd29c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano h3"}
   (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55eaac817c3a <unknown>
-#1 0x55eaac231969 <unknown>
-#2 0x55eaac286ead <unknown>
-#3 0x55eaac2870f1 <unknown>
-#4 0x55eaac2d27e4 <unknown>
-#5 0x55eaac2cfa20 <unknown>
-#6 0x55eaac278be2 <unknown>
-#7 0x55eaac279991 <unknown>
-#8 0x55eaac7dda99 <unknown>
-#9 0x55eaac7e09b1 <unknown>
-#10 0x55eaac7ca0a9 <unknown>
-#11 0x55eaac7e156e <unknown>
-#12 0x55eaac7b05e0 <unknown>
-#13 0x55eaac805358 <unknown>
-#14 0x55eaac805528 <unknown>
-#15 0x55eaac816fa8 <unknown>
-#16 0x7f9d6a69caa4 <unknown>
-#17 0x7f9d6a729c6c <unknown>
+#0 0x55a070149c3a <unknown>
+#1 0x55a06fb63969 <unknown>
+#2 0x55a06fbb8ead <unknown>
+#3 0x55a06fbb90f1 <unknown>
+#4 0x55a06fc047e4 <unknown>
+#5 0x55a06fc01a20 <unknown>
+#6 0x55a06fbaabe2 <unknown>
+#7 0x55a06fbab991 <unknown>
+#8 0x55a07010fa99 <unknown>
+#9 0x55a0701129b1 <unknown>
+#10 0x55a0700fc0a9 <unknown>
+#11 0x55a07011356e <unknown>
+#12 0x55a0700e25e0 <unknown>
+#13 0x55a070137358 <unknown>
+#14 0x55a070137528 <unknown>
+#15 0x55a070148fa8 <unknown>
+#16 0x7f8fddc9caa4 <unknown>
+#17 0x7f8fddd29c6c <unknown>
 
-Timestamp: 2026-01-23 15:40:05.465575
+Timestamp: 2026-01-23 15:42:41.364361
 
 Status: FAILED!
 Check: 3
@@ -107,48 +107,48 @@ Test: The `div` element with an `id` attribute of 'piano' contains an `img` elem
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano img"}
   (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55eaac817c3a <unknown>
-#1 0x55eaac231969 <unknown>
-#2 0x55eaac286ead <unknown>
-#3 0x55eaac2870f1 <unknown>
-#4 0x55eaac2d27e4 <unknown>
-#5 0x55eaac2cfa20 <unknown>
-#6 0x55eaac278be2 <unknown>
-#7 0x55eaac279991 <unknown>
-#8 0x55eaac7dda99 <unknown>
-#9 0x55eaac7e09b1 <unknown>
-#10 0x55eaac7ca0a9 <unknown>
-#11 0x55eaac7e156e <unknown>
-#12 0x55eaac7b05e0 <unknown>
-#13 0x55eaac805358 <unknown>
-#14 0x55eaac805528 <unknown>
-#15 0x55eaac816fa8 <unknown>
-#16 0x7f9d6a69caa4 <unknown>
-#17 0x7f9d6a729c6c <unknown>
+#0 0x55a070149c3a <unknown>
+#1 0x55a06fb63969 <unknown>
+#2 0x55a06fbb8ead <unknown>
+#3 0x55a06fbb90f1 <unknown>
+#4 0x55a06fc047e4 <unknown>
+#5 0x55a06fc01a20 <unknown>
+#6 0x55a06fbaabe2 <unknown>
+#7 0x55a06fbab991 <unknown>
+#8 0x55a07010fa99 <unknown>
+#9 0x55a0701129b1 <unknown>
+#10 0x55a0700fc0a9 <unknown>
+#11 0x55a07011356e <unknown>
+#12 0x55a0700e25e0 <unknown>
+#13 0x55a070137358 <unknown>
+#14 0x55a070137528 <unknown>
+#15 0x55a070148fa8 <unknown>
+#16 0x7f8fddc9caa4 <unknown>
+#17 0x7f8fddd29c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano img"}
   (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55eaac817c3a <unknown>
-#1 0x55eaac231969 <unknown>
-#2 0x55eaac286ead <unknown>
-#3 0x55eaac2870f1 <unknown>
-#4 0x55eaac2d27e4 <unknown>
-#5 0x55eaac2cfa20 <unknown>
-#6 0x55eaac278be2 <unknown>
-#7 0x55eaac279991 <unknown>
-#8 0x55eaac7dda99 <unknown>
-#9 0x55eaac7e09b1 <unknown>
-#10 0x55eaac7ca0a9 <unknown>
-#11 0x55eaac7e156e <unknown>
-#12 0x55eaac7b05e0 <unknown>
-#13 0x55eaac805358 <unknown>
-#14 0x55eaac805528 <unknown>
-#15 0x55eaac816fa8 <unknown>
-#16 0x7f9d6a69caa4 <unknown>
-#17 0x7f9d6a729c6c <unknown>
+#0 0x55a070149c3a <unknown>
+#1 0x55a06fb63969 <unknown>
+#2 0x55a06fbb8ead <unknown>
+#3 0x55a06fbb90f1 <unknown>
+#4 0x55a06fc047e4 <unknown>
+#5 0x55a06fc01a20 <unknown>
+#6 0x55a06fbaabe2 <unknown>
+#7 0x55a06fbab991 <unknown>
+#8 0x55a07010fa99 <unknown>
+#9 0x55a0701129b1 <unknown>
+#10 0x55a0700fc0a9 <unknown>
+#11 0x55a07011356e <unknown>
+#12 0x55a0700e25e0 <unknown>
+#13 0x55a070137358 <unknown>
+#14 0x55a070137528 <unknown>
+#15 0x55a070148fa8 <unknown>
+#16 0x7f8fddc9caa4 <unknown>
+#17 0x7f8fddd29c6c <unknown>
 
-Timestamp: 2026-01-23 15:40:06.505637
+Timestamp: 2026-01-23 15:42:42.408533
 
 Status: FAILED!
 Check: 4
@@ -156,48 +156,48 @@ Test: The 'img' element has the correct src, alt, height, and width attributes i
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano img"}
   (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55eaac817c3a <unknown>
-#1 0x55eaac231969 <unknown>
-#2 0x55eaac286ead <unknown>
-#3 0x55eaac2870f1 <unknown>
-#4 0x55eaac2d27e4 <unknown>
-#5 0x55eaac2cfa20 <unknown>
-#6 0x55eaac278be2 <unknown>
-#7 0x55eaac279991 <unknown>
-#8 0x55eaac7dda99 <unknown>
-#9 0x55eaac7e09b1 <unknown>
-#10 0x55eaac7ca0a9 <unknown>
-#11 0x55eaac7e156e <unknown>
-#12 0x55eaac7b05e0 <unknown>
-#13 0x55eaac805358 <unknown>
-#14 0x55eaac805528 <unknown>
-#15 0x55eaac816fa8 <unknown>
-#16 0x7f9d6a69caa4 <unknown>
-#17 0x7f9d6a729c6c <unknown>
+#0 0x55a070149c3a <unknown>
+#1 0x55a06fb63969 <unknown>
+#2 0x55a06fbb8ead <unknown>
+#3 0x55a06fbb90f1 <unknown>
+#4 0x55a06fc047e4 <unknown>
+#5 0x55a06fc01a20 <unknown>
+#6 0x55a06fbaabe2 <unknown>
+#7 0x55a06fbab991 <unknown>
+#8 0x55a07010fa99 <unknown>
+#9 0x55a0701129b1 <unknown>
+#10 0x55a0700fc0a9 <unknown>
+#11 0x55a07011356e <unknown>
+#12 0x55a0700e25e0 <unknown>
+#13 0x55a070137358 <unknown>
+#14 0x55a070137528 <unknown>
+#15 0x55a070148fa8 <unknown>
+#16 0x7f8fddc9caa4 <unknown>
+#17 0x7f8fddd29c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano img"}
   (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55eaac817c3a <unknown>
-#1 0x55eaac231969 <unknown>
-#2 0x55eaac286ead <unknown>
-#3 0x55eaac2870f1 <unknown>
-#4 0x55eaac2d27e4 <unknown>
-#5 0x55eaac2cfa20 <unknown>
-#6 0x55eaac278be2 <unknown>
-#7 0x55eaac279991 <unknown>
-#8 0x55eaac7dda99 <unknown>
-#9 0x55eaac7e09b1 <unknown>
-#10 0x55eaac7ca0a9 <unknown>
-#11 0x55eaac7e156e <unknown>
-#12 0x55eaac7b05e0 <unknown>
-#13 0x55eaac805358 <unknown>
-#14 0x55eaac805528 <unknown>
-#15 0x55eaac816fa8 <unknown>
-#16 0x7f9d6a69caa4 <unknown>
-#17 0x7f9d6a729c6c <unknown>
+#0 0x55a070149c3a <unknown>
+#1 0x55a06fb63969 <unknown>
+#2 0x55a06fbb8ead <unknown>
+#3 0x55a06fbb90f1 <unknown>
+#4 0x55a06fc047e4 <unknown>
+#5 0x55a06fc01a20 <unknown>
+#6 0x55a06fbaabe2 <unknown>
+#7 0x55a06fbab991 <unknown>
+#8 0x55a07010fa99 <unknown>
+#9 0x55a0701129b1 <unknown>
+#10 0x55a0700fc0a9 <unknown>
+#11 0x55a07011356e <unknown>
+#12 0x55a0700e25e0 <unknown>
+#13 0x55a070137358 <unknown>
+#14 0x55a070137528 <unknown>
+#15 0x55a070148fa8 <unknown>
+#16 0x7f8fddc9caa4 <unknown>
+#17 0x7f8fddd29c6c <unknown>
 
-Timestamp: 2026-01-23 15:40:07.542404
+Timestamp: 2026-01-23 15:42:43.448173
 
 Status: FAILED!
 Check: 5
@@ -205,48 +205,48 @@ Test: The `div` element with an `id` attribute of 'piano' contains a `p` element
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano p"}
   (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55eaac817c3a <unknown>
-#1 0x55eaac231969 <unknown>
-#2 0x55eaac286ead <unknown>
-#3 0x55eaac2870f1 <unknown>
-#4 0x55eaac2d27e4 <unknown>
-#5 0x55eaac2cfa20 <unknown>
-#6 0x55eaac278be2 <unknown>
-#7 0x55eaac279991 <unknown>
-#8 0x55eaac7dda99 <unknown>
-#9 0x55eaac7e09b1 <unknown>
-#10 0x55eaac7ca0a9 <unknown>
-#11 0x55eaac7e156e <unknown>
-#12 0x55eaac7b05e0 <unknown>
-#13 0x55eaac805358 <unknown>
-#14 0x55eaac805528 <unknown>
-#15 0x55eaac816fa8 <unknown>
-#16 0x7f9d6a69caa4 <unknown>
-#17 0x7f9d6a729c6c <unknown>
+#0 0x55a070149c3a <unknown>
+#1 0x55a06fb63969 <unknown>
+#2 0x55a06fbb8ead <unknown>
+#3 0x55a06fbb90f1 <unknown>
+#4 0x55a06fc047e4 <unknown>
+#5 0x55a06fc01a20 <unknown>
+#6 0x55a06fbaabe2 <unknown>
+#7 0x55a06fbab991 <unknown>
+#8 0x55a07010fa99 <unknown>
+#9 0x55a0701129b1 <unknown>
+#10 0x55a0700fc0a9 <unknown>
+#11 0x55a07011356e <unknown>
+#12 0x55a0700e25e0 <unknown>
+#13 0x55a070137358 <unknown>
+#14 0x55a070137528 <unknown>
+#15 0x55a070148fa8 <unknown>
+#16 0x7f8fddc9caa4 <unknown>
+#17 0x7f8fddd29c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano p"}
   (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55eaac817c3a <unknown>
-#1 0x55eaac231969 <unknown>
-#2 0x55eaac286ead <unknown>
-#3 0x55eaac2870f1 <unknown>
-#4 0x55eaac2d27e4 <unknown>
-#5 0x55eaac2cfa20 <unknown>
-#6 0x55eaac278be2 <unknown>
-#7 0x55eaac279991 <unknown>
-#8 0x55eaac7dda99 <unknown>
-#9 0x55eaac7e09b1 <unknown>
-#10 0x55eaac7ca0a9 <unknown>
-#11 0x55eaac7e156e <unknown>
-#12 0x55eaac7b05e0 <unknown>
-#13 0x55eaac805358 <unknown>
-#14 0x55eaac805528 <unknown>
-#15 0x55eaac816fa8 <unknown>
-#16 0x7f9d6a69caa4 <unknown>
-#17 0x7f9d6a729c6c <unknown>
+#0 0x55a070149c3a <unknown>
+#1 0x55a06fb63969 <unknown>
+#2 0x55a06fbb8ead <unknown>
+#3 0x55a06fbb90f1 <unknown>
+#4 0x55a06fc047e4 <unknown>
+#5 0x55a06fc01a20 <unknown>
+#6 0x55a06fbaabe2 <unknown>
+#7 0x55a06fbab991 <unknown>
+#8 0x55a07010fa99 <unknown>
+#9 0x55a0701129b1 <unknown>
+#10 0x55a0700fc0a9 <unknown>
+#11 0x55a07011356e <unknown>
+#12 0x55a0700e25e0 <unknown>
+#13 0x55a070137358 <unknown>
+#14 0x55a070137528 <unknown>
+#15 0x55a070148fa8 <unknown>
+#16 0x7f8fddc9caa4 <unknown>
+#17 0x7f8fddd29c6c <unknown>
 
-Timestamp: 2026-01-23 15:40:08.574968
+Timestamp: 2026-01-23 15:42:44.483282
 
 Status: FAILED!
 Check: 6
@@ -254,45 +254,45 @@ Test: The `p` element contains the correct text in lessons.html.
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano p"}
   (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55eaac817c3a <unknown>
-#1 0x55eaac231969 <unknown>
-#2 0x55eaac286ead <unknown>
-#3 0x55eaac2870f1 <unknown>
-#4 0x55eaac2d27e4 <unknown>
-#5 0x55eaac2cfa20 <unknown>
-#6 0x55eaac278be2 <unknown>
-#7 0x55eaac279991 <unknown>
-#8 0x55eaac7dda99 <unknown>
-#9 0x55eaac7e09b1 <unknown>
-#10 0x55eaac7ca0a9 <unknown>
-#11 0x55eaac7e156e <unknown>
-#12 0x55eaac7b05e0 <unknown>
-#13 0x55eaac805358 <unknown>
-#14 0x55eaac805528 <unknown>
-#15 0x55eaac816fa8 <unknown>
-#16 0x7f9d6a69caa4 <unknown>
-#17 0x7f9d6a729c6c <unknown>
+#0 0x55a070149c3a <unknown>
+#1 0x55a06fb63969 <unknown>
+#2 0x55a06fbb8ead <unknown>
+#3 0x55a06fbb90f1 <unknown>
+#4 0x55a06fc047e4 <unknown>
+#5 0x55a06fc01a20 <unknown>
+#6 0x55a06fbaabe2 <unknown>
+#7 0x55a06fbab991 <unknown>
+#8 0x55a07010fa99 <unknown>
+#9 0x55a0701129b1 <unknown>
+#10 0x55a0700fc0a9 <unknown>
+#11 0x55a07011356e <unknown>
+#12 0x55a0700e25e0 <unknown>
+#13 0x55a070137358 <unknown>
+#14 0x55a070137528 <unknown>
+#15 0x55a070148fa8 <unknown>
+#16 0x7f8fddc9caa4 <unknown>
+#17 0x7f8fddd29c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano p"}
   (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55eaac817c3a <unknown>
-#1 0x55eaac231969 <unknown>
-#2 0x55eaac286ead <unknown>
-#3 0x55eaac2870f1 <unknown>
-#4 0x55eaac2d27e4 <unknown>
-#5 0x55eaac2cfa20 <unknown>
-#6 0x55eaac278be2 <unknown>
-#7 0x55eaac279991 <unknown>
-#8 0x55eaac7dda99 <unknown>
-#9 0x55eaac7e09b1 <unknown>
-#10 0x55eaac7ca0a9 <unknown>
-#11 0x55eaac7e156e <unknown>
-#12 0x55eaac7b05e0 <unknown>
-#13 0x55eaac805358 <unknown>
-#14 0x55eaac805528 <unknown>
-#15 0x55eaac816fa8 <unknown>
-#16 0x7f9d6a69caa4 <unknown>
-#17 0x7f9d6a729c6c <unknown>
+#0 0x55a070149c3a <unknown>
+#1 0x55a06fb63969 <unknown>
+#2 0x55a06fbb8ead <unknown>
+#3 0x55a06fbb90f1 <unknown>
+#4 0x55a06fc047e4 <unknown>
+#5 0x55a06fc01a20 <unknown>
+#6 0x55a06fbaabe2 <unknown>
+#7 0x55a06fbab991 <unknown>
+#8 0x55a07010fa99 <unknown>
+#9 0x55a0701129b1 <unknown>
+#10 0x55a0700fc0a9 <unknown>
+#11 0x55a07011356e <unknown>
+#12 0x55a0700e25e0 <unknown>
+#13 0x55a070137358 <unknown>
+#14 0x55a070137528 <unknown>
+#15 0x55a070148fa8 <unknown>
+#16 0x7f8fddc9caa4 <unknown>
+#17 0x7f8fddd29c6c <unknown>
 
-Timestamp: 2026-01-23 15:40:09.605448
+Timestamp: 2026-01-23 15:42:45.515471

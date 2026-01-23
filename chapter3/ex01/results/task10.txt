@@ -5,52 +5,52 @@ Test: The div with the id attribute value of 'guitar' within the main element is
 Reason: InvalidArgumentException occurred: Message: invalid argument
   (Session info: chrome=144.0.7559.59)
 Stacktrace:
-#0 0x55c93e734c3a <unknown>
-#1 0x55c93e14e720 <unknown>
-#2 0x55c93e135907 <unknown>
-#3 0x55c93e133b20 <unknown>
-#4 0x55c93e134190 <unknown>
-#5 0x55c93e15242d <unknown>
-#6 0x55c93e1ed68b <unknown>
-#7 0x55c93e1eca20 <unknown>
-#8 0x55c93e195be2 <unknown>
-#9 0x55c93e196991 <unknown>
-#10 0x55c93e6faa99 <unknown>
-#11 0x55c93e6fd9b1 <unknown>
-#12 0x55c93e6e70a9 <unknown>
-#13 0x55c93e6fe56e <unknown>
-#14 0x55c93e6cd5e0 <unknown>
-#15 0x55c93e722358 <unknown>
-#16 0x55c93e722528 <unknown>
-#17 0x55c93e733fa8 <unknown>
-#18 0x7f98e1e9caa4 <unknown>
-#19 0x7f98e1f29c6c <unknown>
+#0 0x5608cf23cc3a <unknown>
+#1 0x5608cec56720 <unknown>
+#2 0x5608cec3d907 <unknown>
+#3 0x5608cec3bb20 <unknown>
+#4 0x5608cec3c190 <unknown>
+#5 0x5608cec5a42d <unknown>
+#6 0x5608cecf568b <unknown>
+#7 0x5608cecf4a20 <unknown>
+#8 0x5608cec9dbe2 <unknown>
+#9 0x5608cec9e991 <unknown>
+#10 0x5608cf202a99 <unknown>
+#11 0x5608cf2059b1 <unknown>
+#12 0x5608cf1ef0a9 <unknown>
+#13 0x5608cf20656e <unknown>
+#14 0x5608cf1d55e0 <unknown>
+#15 0x5608cf22a358 <unknown>
+#16 0x5608cf22a528 <unknown>
+#17 0x5608cf23bfa8 <unknown>
+#18 0x7f0cada9caa4 <unknown>
+#19 0x7f0cadb29c6c <unknown>
 
 Error : InvalidArgumentException - Message: invalid argument
   (Session info: chrome=144.0.7559.59)
 Stacktrace:
-#0 0x55c93e734c3a <unknown>
-#1 0x55c93e14e720 <unknown>
-#2 0x55c93e135907 <unknown>
-#3 0x55c93e133b20 <unknown>
-#4 0x55c93e134190 <unknown>
-#5 0x55c93e15242d <unknown>
-#6 0x55c93e1ed68b <unknown>
-#7 0x55c93e1eca20 <unknown>
-#8 0x55c93e195be2 <unknown>
-#9 0x55c93e196991 <unknown>
-#10 0x55c93e6faa99 <unknown>
-#11 0x55c93e6fd9b1 <unknown>
-#12 0x55c93e6e70a9 <unknown>
-#13 0x55c93e6fe56e <unknown>
-#14 0x55c93e6cd5e0 <unknown>
-#15 0x55c93e722358 <unknown>
-#16 0x55c93e722528 <unknown>
-#17 0x55c93e733fa8 <unknown>
-#18 0x7f98e1e9caa4 <unknown>
-#19 0x7f98e1f29c6c <unknown>
+#0 0x5608cf23cc3a <unknown>
+#1 0x5608cec56720 <unknown>
+#2 0x5608cec3d907 <unknown>
+#3 0x5608cec3bb20 <unknown>
+#4 0x5608cec3c190 <unknown>
+#5 0x5608cec5a42d <unknown>
+#6 0x5608cecf568b <unknown>
+#7 0x5608cecf4a20 <unknown>
+#8 0x5608cec9dbe2 <unknown>
+#9 0x5608cec9e991 <unknown>
+#10 0x5608cf202a99 <unknown>
+#11 0x5608cf2059b1 <unknown>
+#12 0x5608cf1ef0a9 <unknown>
+#13 0x5608cf20656e <unknown>
+#14 0x5608cf1d55e0 <unknown>
+#15 0x5608cf22a358 <unknown>
+#16 0x5608cf22a528 <unknown>
+#17 0x5608cf23bfa8 <unknown>
+#18 0x7f0cada9caa4 <unknown>
+#19 0x7f0cadb29c6c <unknown>
 
-Timestamp: 2026-01-23 15:31:11.805134
+Timestamp: 2026-01-23 15:42:46.516267
 
 Status: FAILED!
 Check: 2
@@ -58,48 +58,48 @@ Test: The div element with an id attribute of 'guitar' contains an h3 element wi
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#guitar h3"}
   (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c93e734c3a <unknown>
-#1 0x55c93e14e969 <unknown>
-#2 0x55c93e1a3ead <unknown>
-#3 0x55c93e1a40f1 <unknown>
-#4 0x55c93e1ef7e4 <unknown>
-#5 0x55c93e1eca20 <unknown>
-#6 0x55c93e195be2 <unknown>
-#7 0x55c93e196991 <unknown>
-#8 0x55c93e6faa99 <unknown>
-#9 0x55c93e6fd9b1 <unknown>
-#10 0x55c93e6e70a9 <unknown>
-#11 0x55c93e6fe56e <unknown>
-#12 0x55c93e6cd5e0 <unknown>
-#13 0x55c93e722358 <unknown>
-#14 0x55c93e722528 <unknown>
-#15 0x55c93e733fa8 <unknown>
-#16 0x7f98e1e9caa4 <unknown>
-#17 0x7f98e1f29c6c <unknown>
+#0 0x5608cf23cc3a <unknown>
+#1 0x5608cec56969 <unknown>
+#2 0x5608cecabead <unknown>
+#3 0x5608cecac0f1 <unknown>
+#4 0x5608cecf77e4 <unknown>
+#5 0x5608cecf4a20 <unknown>
+#6 0x5608cec9dbe2 <unknown>
+#7 0x5608cec9e991 <unknown>
+#8 0x5608cf202a99 <unknown>
+#9 0x5608cf2059b1 <unknown>
+#10 0x5608cf1ef0a9 <unknown>
+#11 0x5608cf20656e <unknown>
+#12 0x5608cf1d55e0 <unknown>
+#13 0x5608cf22a358 <unknown>
+#14 0x5608cf22a528 <unknown>
+#15 0x5608cf23bfa8 <unknown>
+#16 0x7f0cada9caa4 <unknown>
+#17 0x7f0cadb29c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#guitar h3"}
   (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c93e734c3a <unknown>
-#1 0x55c93e14e969 <unknown>
-#2 0x55c93e1a3ead <unknown>
-#3 0x55c93e1a40f1 <unknown>
-#4 0x55c93e1ef7e4 <unknown>
-#5 0x55c93e1eca20 <unknown>
-#6 0x55c93e195be2 <unknown>
-#7 0x55c93e196991 <unknown>
-#8 0x55c93e6faa99 <unknown>
-#9 0x55c93e6fd9b1 <unknown>
-#10 0x55c93e6e70a9 <unknown>
-#11 0x55c93e6fe56e <unknown>
-#12 0x55c93e6cd5e0 <unknown>
-#13 0x55c93e722358 <unknown>
-#14 0x55c93e722528 <unknown>
-#15 0x55c93e733fa8 <unknown>
-#16 0x7f98e1e9caa4 <unknown>
-#17 0x7f98e1f29c6c <unknown>
+#0 0x5608cf23cc3a <unknown>
+#1 0x5608cec56969 <unknown>
+#2 0x5608cecabead <unknown>
+#3 0x5608cecac0f1 <unknown>
+#4 0x5608cecf77e4 <unknown>
+#5 0x5608cecf4a20 <unknown>
+#6 0x5608cec9dbe2 <unknown>
+#7 0x5608cec9e991 <unknown>
+#8 0x5608cf202a99 <unknown>
+#9 0x5608cf2059b1 <unknown>
+#10 0x5608cf1ef0a9 <unknown>
+#11 0x5608cf20656e <unknown>
+#12 0x5608cf1d55e0 <unknown>
+#13 0x5608cf22a358 <unknown>
+#14 0x5608cf22a528 <unknown>
+#15 0x5608cf23bfa8 <unknown>
+#16 0x7f0cada9caa4 <unknown>
+#17 0x7f0cadb29c6c <unknown>
 
-Timestamp: 2026-01-23 15:31:12.826644
+Timestamp: 2026-01-23 15:42:47.562334
 
 Status: FAILED!
 Check: 3
@@ -107,48 +107,48 @@ Test: The div element with an id attribute of 'guitar' contains an img element w
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#guitar img"}
   (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c93e734c3a <unknown>
-#1 0x55c93e14e969 <unknown>
-#2 0x55c93e1a3ead <unknown>
-#3 0x55c93e1a40f1 <unknown>
-#4 0x55c93e1ef7e4 <unknown>
-#5 0x55c93e1eca20 <unknown>
-#6 0x55c93e195be2 <unknown>
-#7 0x55c93e196991 <unknown>
-#8 0x55c93e6faa99 <unknown>
-#9 0x55c93e6fd9b1 <unknown>
-#10 0x55c93e6e70a9 <unknown>
-#11 0x55c93e6fe56e <unknown>
-#12 0x55c93e6cd5e0 <unknown>
-#13 0x55c93e722358 <unknown>
-#14 0x55c93e722528 <unknown>
-#15 0x55c93e733fa8 <unknown>
-#16 0x7f98e1e9caa4 <unknown>
-#17 0x7f98e1f29c6c <unknown>
+#0 0x5608cf23cc3a <unknown>
+#1 0x5608cec56969 <unknown>
+#2 0x5608cecabead <unknown>
+#3 0x5608cecac0f1 <unknown>
+#4 0x5608cecf77e4 <unknown>
+#5 0x5608cecf4a20 <unknown>
+#6 0x5608cec9dbe2 <unknown>
+#7 0x5608cec9e991 <unknown>
+#8 0x5608cf202a99 <unknown>
+#9 0x5608cf2059b1 <unknown>
+#10 0x5608cf1ef0a9 <unknown>
+#11 0x5608cf20656e <unknown>
+#12 0x5608cf1d55e0 <unknown>
+#13 0x5608cf22a358 <unknown>
+#14 0x5608cf22a528 <unknown>
+#15 0x5608cf23bfa8 <unknown>
+#16 0x7f0cada9caa4 <unknown>
+#17 0x7f0cadb29c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#guitar img"}
   (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c93e734c3a <unknown>
-#1 0x55c93e14e969 <unknown>
-#2 0x55c93e1a3ead <unknown>
-#3 0x55c93e1a40f1 <unknown>
-#4 0x55c93e1ef7e4 <unknown>
-#5 0x55c93e1eca20 <unknown>
-#6 0x55c93e195be2 <unknown>
-#7 0x55c93e196991 <unknown>
-#8 0x55c93e6faa99 <unknown>
-#9 0x55c93e6fd9b1 <unknown>
-#10 0x55c93e6e70a9 <unknown>
-#11 0x55c93e6fe56e <unknown>
-#12 0x55c93e6cd5e0 <unknown>
-#13 0x55c93e722358 <unknown>
-#14 0x55c93e722528 <unknown>
-#15 0x55c93e733fa8 <unknown>
-#16 0x7f98e1e9caa4 <unknown>
-#17 0x7f98e1f29c6c <unknown>
+#0 0x5608cf23cc3a <unknown>
+#1 0x5608cec56969 <unknown>
+#2 0x5608cecabead <unknown>
+#3 0x5608cecac0f1 <unknown>
+#4 0x5608cecf77e4 <unknown>
+#5 0x5608cecf4a20 <unknown>
+#6 0x5608cec9dbe2 <unknown>
+#7 0x5608cec9e991 <unknown>
+#8 0x5608cf202a99 <unknown>
+#9 0x5608cf2059b1 <unknown>
+#10 0x5608cf1ef0a9 <unknown>
+#11 0x5608cf20656e <unknown>
+#12 0x5608cf1d55e0 <unknown>
+#13 0x5608cf22a358 <unknown>
+#14 0x5608cf22a528 <unknown>
+#15 0x5608cf23bfa8 <unknown>
+#16 0x7f0cada9caa4 <unknown>
+#17 0x7f0cadb29c6c <unknown>
 
-Timestamp: 2026-01-23 15:31:13.866447
+Timestamp: 2026-01-23 15:42:48.608342
 
 Status: FAILED!
 Check: 4
@@ -156,45 +156,45 @@ Test: The div element with an id attribute of 'guitar' contains a p element with
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#guitar p"}
   (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c93e734c3a <unknown>
-#1 0x55c93e14e969 <unknown>
-#2 0x55c93e1a3ead <unknown>
-#3 0x55c93e1a40f1 <unknown>
-#4 0x55c93e1ef7e4 <unknown>
-#5 0x55c93e1eca20 <unknown>
-#6 0x55c93e195be2 <unknown>
-#7 0x55c93e196991 <unknown>
-#8 0x55c93e6faa99 <unknown>
-#9 0x55c93e6fd9b1 <unknown>
-#10 0x55c93e6e70a9 <unknown>
-#11 0x55c93e6fe56e <unknown>
-#12 0x55c93e6cd5e0 <unknown>
-#13 0x55c93e722358 <unknown>
-#14 0x55c93e722528 <unknown>
-#15 0x55c93e733fa8 <unknown>
-#16 0x7f98e1e9caa4 <unknown>
-#17 0x7f98e1f29c6c <unknown>
+#0 0x5608cf23cc3a <unknown>
+#1 0x5608cec56969 <unknown>
+#2 0x5608cecabead <unknown>
+#3 0x5608cecac0f1 <unknown>
+#4 0x5608cecf77e4 <unknown>
+#5 0x5608cecf4a20 <unknown>
+#6 0x5608cec9dbe2 <unknown>
+#7 0x5608cec9e991 <unknown>
+#8 0x5608cf202a99 <unknown>
+#9 0x5608cf2059b1 <unknown>
+#10 0x5608cf1ef0a9 <unknown>
+#11 0x5608cf20656e <unknown>
+#12 0x5608cf1d55e0 <unknown>
+#13 0x5608cf22a358 <unknown>
+#14 0x5608cf22a528 <unknown>
+#15 0x5608cf23bfa8 <unknown>
+#16 0x7f0cada9caa4 <unknown>
+#17 0x7f0cadb29c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#guitar p"}
   (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c93e734c3a <unknown>
-#1 0x55c93e14e969 <unknown>
-#2 0x55c93e1a3ead <unknown>
-#3 0x55c93e1a40f1 <unknown>
-#4 0x55c93e1ef7e4 <unknown>
-#5 0x55c93e1eca20 <unknown>
-#6 0x55c93e195be2 <unknown>
-#7 0x55c93e196991 <unknown>
-#8 0x55c93e6faa99 <unknown>
-#9 0x55c93e6fd9b1 <unknown>
-#10 0x55c93e6e70a9 <unknown>
-#11 0x55c93e6fe56e <unknown>
-#12 0x55c93e6cd5e0 <unknown>
-#13 0x55c93e722358 <unknown>
-#14 0x55c93e722528 <unknown>
-#15 0x55c93e733fa8 <unknown>
-#16 0x7f98e1e9caa4 <unknown>
-#17 0x7f98e1f29c6c <unknown>
+#0 0x5608cf23cc3a <unknown>
+#1 0x5608cec56969 <unknown>
+#2 0x5608cecabead <unknown>
+#3 0x5608cecac0f1 <unknown>
+#4 0x5608cecf77e4 <unknown>
+#5 0x5608cecf4a20 <unknown>
+#6 0x5608cec9dbe2 <unknown>
+#7 0x5608cec9e991 <unknown>
+#8 0x5608cf202a99 <unknown>
+#9 0x5608cf2059b1 <unknown>
+#10 0x5608cf1ef0a9 <unknown>
+#11 0x5608cf20656e <unknown>
+#12 0x5608cf1d55e0 <unknown>
+#13 0x5608cf22a358 <unknown>
+#14 0x5608cf22a528 <unknown>
+#15 0x5608cf23bfa8 <unknown>
+#16 0x7f0cada9caa4 <unknown>
+#17 0x7f0cadb29c6c <unknown>
 
-Timestamp: 2026-01-23 15:31:14.903641
+Timestamp: 2026-01-23 15:42:49.652725
