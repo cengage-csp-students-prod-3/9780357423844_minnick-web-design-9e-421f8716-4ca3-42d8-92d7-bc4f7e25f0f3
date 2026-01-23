@@ -1,0 +1,200 @@
+
+Status: FAILED!
+Check: 1
+Test: A div with the id attribute value of 'violin' is present in the main tag of lessons.html.
+Reason: InvalidArgumentException occurred: Message: invalid argument
+  (Session info: chrome=144.0.7559.59)
+Stacktrace:
+#0 0x56267234dc3a <unknown>
+#1 0x562671d67720 <unknown>
+#2 0x562671d4e907 <unknown>
+#3 0x562671d4cb20 <unknown>
+#4 0x562671d4d190 <unknown>
+#5 0x562671d6b42d <unknown>
+#6 0x562671e0668b <unknown>
+#7 0x562671e05a20 <unknown>
+#8 0x562671daebe2 <unknown>
+#9 0x562671daf991 <unknown>
+#10 0x562672313a99 <unknown>
+#11 0x5626723169b1 <unknown>
+#12 0x5626723000a9 <unknown>
+#13 0x56267231756e <unknown>
+#14 0x5626722e65e0 <unknown>
+#15 0x56267233b358 <unknown>
+#16 0x56267233b528 <unknown>
+#17 0x56267234cfa8 <unknown>
+#18 0x7f13f9c9caa4 <unknown>
+#19 0x7f13f9d29c6c <unknown>
+
+Error : InvalidArgumentException - Message: invalid argument
+  (Session info: chrome=144.0.7559.59)
+Stacktrace:
+#0 0x56267234dc3a <unknown>
+#1 0x562671d67720 <unknown>
+#2 0x562671d4e907 <unknown>
+#3 0x562671d4cb20 <unknown>
+#4 0x562671d4d190 <unknown>
+#5 0x562671d6b42d <unknown>
+#6 0x562671e0668b <unknown>
+#7 0x562671e05a20 <unknown>
+#8 0x562671daebe2 <unknown>
+#9 0x562671daf991 <unknown>
+#10 0x562672313a99 <unknown>
+#11 0x5626723169b1 <unknown>
+#12 0x5626723000a9 <unknown>
+#13 0x56267231756e <unknown>
+#14 0x5626722e65e0 <unknown>
+#15 0x56267233b358 <unknown>
+#16 0x56267233b528 <unknown>
+#17 0x56267234cfa8 <unknown>
+#18 0x7f13f9c9caa4 <unknown>
+#19 0x7f13f9d29c6c <unknown>
+
+Timestamp: 2026-01-23 15:31:26.375953
+
+Status: FAILED!
+Check: 2
+Test: The div element with an id attribute of 'violin' contains an h3 element with the text 'Violin Lessons' in lessons.html.
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#violin h3"}
+  (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56267234dc3a <unknown>
+#1 0x562671d67969 <unknown>
+#2 0x562671dbcead <unknown>
+#3 0x562671dbd0f1 <unknown>
+#4 0x562671e087e4 <unknown>
+#5 0x562671e05a20 <unknown>
+#6 0x562671daebe2 <unknown>
+#7 0x562671daf991 <unknown>
+#8 0x562672313a99 <unknown>
+#9 0x5626723169b1 <unknown>
+#10 0x5626723000a9 <unknown>
+#11 0x56267231756e <unknown>
+#12 0x5626722e65e0 <unknown>
+#13 0x56267233b358 <unknown>
+#14 0x56267233b528 <unknown>
+#15 0x56267234cfa8 <unknown>
+#16 0x7f13f9c9caa4 <unknown>
+#17 0x7f13f9d29c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#violin h3"}
+  (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56267234dc3a <unknown>
+#1 0x562671d67969 <unknown>
+#2 0x562671dbcead <unknown>
+#3 0x562671dbd0f1 <unknown>
+#4 0x562671e087e4 <unknown>
+#5 0x562671e05a20 <unknown>
+#6 0x562671daebe2 <unknown>
+#7 0x562671daf991 <unknown>
+#8 0x562672313a99 <unknown>
+#9 0x5626723169b1 <unknown>
+#10 0x5626723000a9 <unknown>
+#11 0x56267231756e <unknown>
+#12 0x5626722e65e0 <unknown>
+#13 0x56267233b358 <unknown>
+#14 0x56267233b528 <unknown>
+#15 0x56267234cfa8 <unknown>
+#16 0x7f13f9c9caa4 <unknown>
+#17 0x7f13f9d29c6c <unknown>
+
+Timestamp: 2026-01-23 15:31:27.424389
+
+Status: FAILED!
+Check: 3
+Test: The div element with an id attribute of 'violin' contains an img element with the specified attributes in lessons.html.
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#violin img"}
+  (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56267234dc3a <unknown>
+#1 0x562671d67969 <unknown>
+#2 0x562671dbcead <unknown>
+#3 0x562671dbd0f1 <unknown>
+#4 0x562671e087e4 <unknown>
+#5 0x562671e05a20 <unknown>
+#6 0x562671daebe2 <unknown>
+#7 0x562671daf991 <unknown>
+#8 0x562672313a99 <unknown>
+#9 0x5626723169b1 <unknown>
+#10 0x5626723000a9 <unknown>
+#11 0x56267231756e <unknown>
+#12 0x5626722e65e0 <unknown>
+#13 0x56267233b358 <unknown>
+#14 0x56267233b528 <unknown>
+#15 0x56267234cfa8 <unknown>
+#16 0x7f13f9c9caa4 <unknown>
+#17 0x7f13f9d29c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#violin img"}
+  (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56267234dc3a <unknown>
+#1 0x562671d67969 <unknown>
+#2 0x562671dbcead <unknown>
+#3 0x562671dbd0f1 <unknown>
+#4 0x562671e087e4 <unknown>
+#5 0x562671e05a20 <unknown>
+#6 0x562671daebe2 <unknown>
+#7 0x562671daf991 <unknown>
+#8 0x562672313a99 <unknown>
+#9 0x5626723169b1 <unknown>
+#10 0x5626723000a9 <unknown>
+#11 0x56267231756e <unknown>
+#12 0x5626722e65e0 <unknown>
+#13 0x56267233b358 <unknown>
+#14 0x56267233b528 <unknown>
+#15 0x56267234cfa8 <unknown>
+#16 0x7f13f9c9caa4 <unknown>
+#17 0x7f13f9d29c6c <unknown>
+
+Timestamp: 2026-01-23 15:31:28.453471
+
+Status: FAILED!
+Check: 4
+Test: The div element with an id attribute of 'violin' contains a p element with the specified text in lessons.html.
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#violin p"}
+  (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56267234dc3a <unknown>
+#1 0x562671d67969 <unknown>
+#2 0x562671dbcead <unknown>
+#3 0x562671dbd0f1 <unknown>
+#4 0x562671e087e4 <unknown>
+#5 0x562671e05a20 <unknown>
+#6 0x562671daebe2 <unknown>
+#7 0x562671daf991 <unknown>
+#8 0x562672313a99 <unknown>
+#9 0x5626723169b1 <unknown>
+#10 0x5626723000a9 <unknown>
+#11 0x56267231756e <unknown>
+#12 0x5626722e65e0 <unknown>
+#13 0x56267233b358 <unknown>
+#14 0x56267233b528 <unknown>
+#15 0x56267234cfa8 <unknown>
+#16 0x7f13f9c9caa4 <unknown>
+#17 0x7f13f9d29c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#violin p"}
+  (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56267234dc3a <unknown>
+#1 0x562671d67969 <unknown>
+#2 0x562671dbcead <unknown>
+#3 0x562671dbd0f1 <unknown>
+#4 0x562671e087e4 <unknown>
+#5 0x562671e05a20 <unknown>
+#6 0x562671daebe2 <unknown>
+#7 0x562671daf991 <unknown>
+#8 0x562672313a99 <unknown>
+#9 0x5626723169b1 <unknown>
+#10 0x5626723000a9 <unknown>
+#11 0x56267231756e <unknown>
+#12 0x5626722e65e0 <unknown>
+#13 0x56267233b358 <unknown>
+#14 0x56267233b528 <unknown>
+#15 0x56267234cfa8 <unknown>
+#16 0x7f13f9c9caa4 <unknown>
+#17 0x7f13f9d29c6c <unknown>
+
+Timestamp: 2026-01-23 15:31:29.479770
