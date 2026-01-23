@@ -1,0 +1,19 @@
+
+Status: PASSED!
+Check: 1
+Test: Main has a div element has an id attribute with a value of contact in contact.html.
+Reason: None
+Timestamp: 2026-01-23 15:31:13.226911
+
+Status: PASSED!
+Check: 2
+Test: The div element contains 1 h2, 3 paragraph tags and one anchor tag with the proper text in contact.html.
+Reason: None
+Timestamp: 2026-01-23 15:31:13.227936
+
+Status: FAILED!
+Check: 3
+Test: The div element contains an iframe element with the proper attributes in contact.html.
+Reason: Assertion failed: The allowfullscreen attribute of the iframe element is not set to allowfullscreen in contact.html.
+Error : AssertionError - The allowfullscreen attribute of the iframe element is not set to allowfullscreen in contact.html.
+Timestamp: 2026-01-23 15:31:13.228885
