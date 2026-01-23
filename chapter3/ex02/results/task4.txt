@@ -3,11 +3,10 @@ Status: PASSED!
 Check: 1
 Test: Add an email link to the email address within the footer element of template.html.
 Reason: None
-Timestamp: 2026-01-23 15:49:40.681444
+Timestamp: 2026-01-23 15:50:42.484552
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Add an email link to the email address within the footer element of index.html.
-Reason: Assertion failed: Can't find the email address within the footer element.
-Error : AssertionError - Can't find the email address within the footer element.
-Timestamp: 2026-01-23 15:49:40.682574
+Reason: None
+Timestamp: 2026-01-23 15:50:42.486646
