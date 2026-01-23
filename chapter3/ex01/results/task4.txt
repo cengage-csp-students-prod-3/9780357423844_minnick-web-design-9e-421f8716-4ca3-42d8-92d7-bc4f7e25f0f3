@@ -1,13 +1,14 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: The footer element contains an email link.
-Reason: None
-Timestamp: 2026-01-23 15:30:43.247458
+Reason: Assertion failed: The email link is incorrect. expected: mailto: followed by the email address.
+Error : AssertionError - The email link is incorrect. expected: mailto: followed by the email address.
+Timestamp: 2026-01-23 15:34:09.748081
 
 Status: FAILED!
 Check: 2
 Test: The email link contains the email address.
 Reason: Assertion failed: The email link is incorrect. expected: mailto: followed by the email address.
 Error : AssertionError - The email link is incorrect. expected: mailto: followed by the email address.
-Timestamp: 2026-01-23 15:30:43.248614
+Timestamp: 2026-01-23 15:34:09.749297
