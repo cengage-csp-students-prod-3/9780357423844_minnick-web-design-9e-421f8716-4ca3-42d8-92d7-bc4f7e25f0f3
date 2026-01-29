@@ -70,3 +70,16 @@ main p {
 	font-weight: bold;
 }
 
+/* Style rules for lessons content */
+#piano, #guitar, #violin {
+    width: 29%;
+    float: left;
+    margin: 0 2%;
+}
+ 
+#info {
+   clear: left;
+   background-color: #c0caf7;
+   padding: 1% 2%;
+}
+
