@@ -83,3 +83,18 @@ main p {
    padding: 1% 2%;
 }
 
+/* Style rules for contact content */
+#contact {
+    text-align: center;
+}
+
+#contact a {
+    color: #4645a8;
+    text-decoration: none;
+    font-weight: bold;
+}
+ 
+.map {
+    border: 5px solid #373684;
+}
+
