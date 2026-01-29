@@ -3,3 +3,10 @@ Author: Aedin Richardson
 File Name: styles.css
 Date: 01/29/2026
 */
+
+/* CSS Reset */
+body, header, nav, main, footer, img, h1 {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
