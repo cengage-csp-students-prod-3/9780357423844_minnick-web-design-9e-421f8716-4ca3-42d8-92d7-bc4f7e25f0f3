@@ -1,0 +1,19 @@
+
+Status: PASSED!
+Check: 2
+Test: Remove the two heading elements (h1 and h3) within the header element in the index.html file
+Reason: None
+Timestamp: 2026-01-30 22:34:21.450959
+
+Status: FAILED!
+Check: 3
+Test: Nest an image element within the header and wrap the image within an anchor element that links to the index.html file
+Reason: KeyError occurred: 'src'
+Error : KeyError - 'src'
+Timestamp: 2026-01-30 22:34:21.452178
+
+Status: PASSED!
+Check: 4
+Test: Remove the height and width attributes from the baby raccoons image (img) element in the index.html file
+Reason: None
+Timestamp: 2026-01-30 22:34:21.453333
