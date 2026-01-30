@@ -84,3 +84,20 @@ main ul {
 #contact {
     text-align: center;
 }
+
+/* Style rules for footer content */
+footer {
+    text-align: center;
+    font-size: 0.85em;
+    background-color: #2a1f14;
+    color: #f6eee4;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 0%;
+    padding-left: 0%;
+}
+
+footer a {
+    color: #f3e6d8;
+}
+
