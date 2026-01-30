@@ -1,0 +1,40 @@
+
+Status: FAILED!
+Check: 1
+Test: Create a style rule for the class selector `link` that sets the font color to **#4d3319**, removes the text decoration, sets the font weight value to **bold**, and sets the font style value to **italic**.
+Reason: Assertion failed: Font color not set to #4d3319
+Error : AssertionError - Font color not set to #4d3319
+Timestamp: 2026-01-30 15:54:42.323626
+
+Status: FAILED!
+Check: 2
+Test: Create a style rule for the class selector `action` that sets the font size to **1.75em**, sets the font weight value to **bold**, and aligns text **center**.
+Reason: Assertion failed: Font size not set to 1.75em
+Error : AssertionError - Font size not set to 1.75em
+Timestamp: 2026-01-30 15:54:42.349950
+
+Status: FAILED!
+Check: 3
+Test: Create a style rule for the id selector `contact` that aligns text center.
+Reason: Assertion failed: Text not aligned center
+Error : AssertionError - Text not aligned center
+Timestamp: 2026-01-30 15:54:42.394641
+
+Status: PASSED!
+Check: 4
+Test: Add a class attribute with the value of `link` to the anchor element with the text National Wildlife Rehabilitators Association.
+Reason: Add the class attribute with the value of `link` to the anchor element with the correct text.None
+Timestamp: 2026-01-30 15:54:42.445317
+
+Status: PASSED!
+Check: 5
+Test: Remove the height and width attributes from the tortoise image (`img`) element.
+Reason: None
+Timestamp: 2026-01-30 15:54:42.477258
+
+Status: FAILED!
+Check: 6
+Test: Add a class attribute with the value of `action` to the paragraph element where the text is Did you find an injured or orphaned animal? Contact us to see if we can help.
+Reason: Assertion failed: 
+Error : AssertionError - 
+Timestamp: 2026-01-30 15:54:42.488169
