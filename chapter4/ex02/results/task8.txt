@@ -3,35 +3,120 @@ Status: PASSED!
 Check: 1
 Test: Create a style rule for the class selector `link` that sets the font color to **#4d3319**, removes the text decoration, sets the font weight value to **bold**, and sets the font style value to **italic**.
 Reason: None
-Timestamp: 2026-01-30 22:19:25.851271
+Timestamp: 2026-01-30 22:27:28.449304
 
-Status: PASSED!
+Status: FAILED!
 Check: 2
 Test: Create a style rule for the class selector `action` that sets the font size to **1.75em**, sets the font weight value to **bold**, and aligns text **center**.
-Reason: None
-Timestamp: 2026-01-30 22:19:25.885712
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".action"}
+  (Session info: chrome=144.0.7559.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x561b5a685afa <unknown>
+#1 0x561b5a09f60f <unknown>
+#2 0x561b5a0f4a16 <unknown>
+#3 0x561b5a0f4c51 <unknown>
+#4 0x561b5a140404 <unknown>
+#5 0x561b5a13d62b <unknown>
+#6 0x561b5a0e6842 <unknown>
+#7 0x561b5a0e7631 <unknown>
+#8 0x561b5a64b689 <unknown>
+#9 0x561b5a64e581 <unknown>
+#10 0x561b5a637ca9 <unknown>
+#11 0x561b5a64f13e <unknown>
+#12 0x561b5a61e3a0 <unknown>
+#13 0x561b5a672fc8 <unknown>
+#14 0x561b5a67319b <unknown>
+#15 0x561b5a684e68 <unknown>
+#16 0x7facfae9caa4 <unknown>
+#17 0x7facfaf29c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".action"}
+  (Session info: chrome=144.0.7559.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x561b5a685afa <unknown>
+#1 0x561b5a09f60f <unknown>
+#2 0x561b5a0f4a16 <unknown>
+#3 0x561b5a0f4c51 <unknown>
+#4 0x561b5a140404 <unknown>
+#5 0x561b5a13d62b <unknown>
+#6 0x561b5a0e6842 <unknown>
+#7 0x561b5a0e7631 <unknown>
+#8 0x561b5a64b689 <unknown>
+#9 0x561b5a64e581 <unknown>
+#10 0x561b5a637ca9 <unknown>
+#11 0x561b5a64f13e <unknown>
+#12 0x561b5a61e3a0 <unknown>
+#13 0x561b5a672fc8 <unknown>
+#14 0x561b5a67319b <unknown>
+#15 0x561b5a684e68 <unknown>
+#16 0x7facfae9caa4 <unknown>
+#17 0x7facfaf29c6c <unknown>
+
+Timestamp: 2026-01-30 22:27:29.482186
 
 Status: PASSED!
 Check: 3
 Test: Create a style rule for the id selector `contact` that aligns text center.
 Reason: None
-Timestamp: 2026-01-30 22:19:25.959408
+Timestamp: 2026-01-30 22:27:29.532298
 
 Status: PASSED!
 Check: 4
 Test: Add a class attribute with the value of `link` to the anchor element with the text National Wildlife Rehabilitators Association.
 Reason: Add the class attribute with the value of `link` to the anchor element with the correct text.None
-Timestamp: 2026-01-30 22:19:26.033394
+Timestamp: 2026-01-30 22:27:29.591118
 
 Status: PASSED!
 Check: 5
 Test: Remove the height and width attributes from the tortoise image (`img`) element.
 Reason: None
-Timestamp: 2026-01-30 22:19:26.071765
+Timestamp: 2026-01-30 22:27:29.626987
 
 Status: FAILED!
 Check: 6
 Test: Add a class attribute with the value of `action` to the paragraph element where the text is Did you find an injured or orphaned animal? Contact us to see if we can help.
-Reason: Assertion failed: 
-Error : AssertionError - 
-Timestamp: 2026-01-30 22:19:26.083325
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".action"}
+  (Session info: chrome=144.0.7559.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x561b5a685afa <unknown>
+#1 0x561b5a09f60f <unknown>
+#2 0x561b5a0f4a16 <unknown>
+#3 0x561b5a0f4c51 <unknown>
+#4 0x561b5a140404 <unknown>
+#5 0x561b5a13d62b <unknown>
+#6 0x561b5a0e6842 <unknown>
+#7 0x561b5a0e7631 <unknown>
+#8 0x561b5a64b689 <unknown>
+#9 0x561b5a64e581 <unknown>
+#10 0x561b5a637ca9 <unknown>
+#11 0x561b5a64f13e <unknown>
+#12 0x561b5a61e3a0 <unknown>
+#13 0x561b5a672fc8 <unknown>
+#14 0x561b5a67319b <unknown>
+#15 0x561b5a684e68 <unknown>
+#16 0x7facfae9caa4 <unknown>
+#17 0x7facfaf29c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".action"}
+  (Session info: chrome=144.0.7559.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x561b5a685afa <unknown>
+#1 0x561b5a09f60f <unknown>
+#2 0x561b5a0f4a16 <unknown>
+#3 0x561b5a0f4c51 <unknown>
+#4 0x561b5a140404 <unknown>
+#5 0x561b5a13d62b <unknown>
+#6 0x561b5a0e6842 <unknown>
+#7 0x561b5a0e7631 <unknown>
+#8 0x561b5a64b689 <unknown>
+#9 0x561b5a64e581 <unknown>
+#10 0x561b5a637ca9 <unknown>
+#11 0x561b5a64f13e <unknown>
+#12 0x561b5a61e3a0 <unknown>
+#13 0x561b5a672fc8 <unknown>
+#14 0x561b5a67319b <unknown>
+#15 0x561b5a684e68 <unknown>
+#16 0x7facfae9caa4 <unknown>
+#17 0x7facfaf29c6c <unknown>
+
+Timestamp: 2026-01-30 22:27:30.655934
