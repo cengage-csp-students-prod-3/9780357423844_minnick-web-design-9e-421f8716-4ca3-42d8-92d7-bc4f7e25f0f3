@@ -12,9 +12,18 @@ body, header, nav, main, footer, img, h1, h3 {
 }
 
 /* Style rules for body and images */
-body, img {
+body {
     background-color: #f6eee4;
+}
+
+img {
     max-width: 100%;
     display: block;
 }
 
+/* Style rules for navigation area */
+nav, nav ul, nav li, nav li a {
+    background-color: #2a1f14;
+    list-style-type: none;
+
+}
