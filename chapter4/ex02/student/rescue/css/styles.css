@@ -42,10 +42,7 @@ nav li {
 nav li a {
     display: block;
     color: #f6eee4;
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
-    padding-left: 2em;
-    padding-right: 2em;
+    padding: 0.5em, 2em;
     text-decoration: none;
 }
 
