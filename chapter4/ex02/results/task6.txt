@@ -1,0 +1,123 @@
+
+Status: PASSED!
+Check: 1
+Test: Create a style rule for the `nav` selector that sets the background color to **#2a1f14**.
+Reason: None
+Timestamp: 2026-01-30 15:41:42.765166
+
+Status: FAILED!
+Check: 2
+Test: Create a style rule for `nav ul` that sets the list style type to **none**, sets the `margin` to **0**, and aligns text **center**.
+Reason: Assertion failed: Expected margin to be 0px, but got 16px 0px
+Error : AssertionError - Expected margin to be 0px, but got 16px 0px
+Timestamp: 2026-01-30 15:41:42.791148
+
+Status: FAILED!
+Check: 3
+Test: Create a style rule for `nav li` that sets the `display` to an **inline-block**, sets a font size of **1.5em**, sets a font family value of **Geneva, Arial, sans-serif**, and sets a font weight value of **bold**.
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li"}
+  (Session info: chrome=144.0.7559.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55d5734b5afa <unknown>
+#1 0x55d572ecf60f <unknown>
+#2 0x55d572f24a16 <unknown>
+#3 0x55d572f24c51 <unknown>
+#4 0x55d572f70404 <unknown>
+#5 0x55d572f6d62b <unknown>
+#6 0x55d572f16842 <unknown>
+#7 0x55d572f17631 <unknown>
+#8 0x55d57347b689 <unknown>
+#9 0x55d57347e581 <unknown>
+#10 0x55d573467ca9 <unknown>
+#11 0x55d57347f13e <unknown>
+#12 0x55d57344e3a0 <unknown>
+#13 0x55d5734a2fc8 <unknown>
+#14 0x55d5734a319b <unknown>
+#15 0x55d5734b4e68 <unknown>
+#16 0x7f131889caa4 <unknown>
+#17 0x7f1318929c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li"}
+  (Session info: chrome=144.0.7559.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55d5734b5afa <unknown>
+#1 0x55d572ecf60f <unknown>
+#2 0x55d572f24a16 <unknown>
+#3 0x55d572f24c51 <unknown>
+#4 0x55d572f70404 <unknown>
+#5 0x55d572f6d62b <unknown>
+#6 0x55d572f16842 <unknown>
+#7 0x55d572f17631 <unknown>
+#8 0x55d57347b689 <unknown>
+#9 0x55d57347e581 <unknown>
+#10 0x55d573467ca9 <unknown>
+#11 0x55d57347f13e <unknown>
+#12 0x55d57344e3a0 <unknown>
+#13 0x55d5734a2fc8 <unknown>
+#14 0x55d5734a319b <unknown>
+#15 0x55d5734b4e68 <unknown>
+#16 0x7f131889caa4 <unknown>
+#17 0x7f1318929c6c <unknown>
+
+Timestamp: 2026-01-30 15:41:43.823188
+
+Status: FAILED!
+Check: 4
+Test: Create a style rule for `nav li a` that sets the `display` to a **block**, sets a font color value of **#f6eee4**, sets top and bottom padding values of **0.5em** and left and right `padding` values of **2em**, and removes the text decoration.
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li a"}
+  (Session info: chrome=144.0.7559.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55d5734b5afa <unknown>
+#1 0x55d572ecf60f <unknown>
+#2 0x55d572f24a16 <unknown>
+#3 0x55d572f24c51 <unknown>
+#4 0x55d572f70404 <unknown>
+#5 0x55d572f6d62b <unknown>
+#6 0x55d572f16842 <unknown>
+#7 0x55d572f17631 <unknown>
+#8 0x55d57347b689 <unknown>
+#9 0x55d57347e581 <unknown>
+#10 0x55d573467ca9 <unknown>
+#11 0x55d57347f13e <unknown>
+#12 0x55d57344e3a0 <unknown>
+#13 0x55d5734a2fc8 <unknown>
+#14 0x55d5734a319b <unknown>
+#15 0x55d5734b4e68 <unknown>
+#16 0x7f131889caa4 <unknown>
+#17 0x7f1318929c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li a"}
+  (Session info: chrome=144.0.7559.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55d5734b5afa <unknown>
+#1 0x55d572ecf60f <unknown>
+#2 0x55d572f24a16 <unknown>
+#3 0x55d572f24c51 <unknown>
+#4 0x55d572f70404 <unknown>
+#5 0x55d572f6d62b <unknown>
+#6 0x55d572f16842 <unknown>
+#7 0x55d572f17631 <unknown>
+#8 0x55d57347b689 <unknown>
+#9 0x55d57347e581 <unknown>
+#10 0x55d573467ca9 <unknown>
+#11 0x55d57347f13e <unknown>
+#12 0x55d57344e3a0 <unknown>
+#13 0x55d5734a2fc8 <unknown>
+#14 0x55d5734a319b <unknown>
+#15 0x55d5734b4e68 <unknown>
+#16 0x7f131889caa4 <unknown>
+#17 0x7f1318929c6c <unknown>
+
+Timestamp: 2026-01-30 15:41:44.858915
+
+Status: PASSED!
+Check: 5
+Test: Update the `nav` element to use an unordered list instead of a paragraph element.
+Reason: None
+Timestamp: 2026-01-30 15:41:44.860567
+
+Status: PASSED!
+Check: 6
+Test: Remove the nonbreaking spaces (&nbsp;) and diamond character codes (&#9672;) nested within the `nav` element.
+Reason: None
+Timestamp: 2026-01-30 15:41:44.861867
