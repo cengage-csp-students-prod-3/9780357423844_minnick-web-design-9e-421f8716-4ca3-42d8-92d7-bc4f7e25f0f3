@@ -3,11 +3,11 @@ Status: PASSED!
 Check: 1
 Test: In the *lessons.html* file, add a class attribute with a value of **round** to the three image elements.
 Reason: None
-Timestamp: 2026-02-03 16:28:23.248389
+Timestamp: 2026-02-03 16:32:04.029364
 
 Status: FAILED!
 Check: 2
 Test: In the *styles.css* file, below the `#info ul` style rule, create a new style rule for the `round` class selector that specifies a `border-radius` of **8px**.
 Reason: Assertion failed: The `round` class selector does not specify a `border-radius` of `8px`.
 Error : AssertionError - The `round` class selector does not specify a `border-radius` of `8px`.
-Timestamp: 2026-02-03 16:28:23.320528
+Timestamp: 2026-02-03 16:32:04.102049
