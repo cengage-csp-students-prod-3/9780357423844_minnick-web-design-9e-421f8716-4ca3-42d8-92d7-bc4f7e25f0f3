@@ -35,7 +35,7 @@ color: #373684;
 header h1 {
 font-style: italic;
 .dm-serif-display-regular-italic {
-font-family: "DM Serif Display", serif;
+font-family: "Roboto", serif;
 font-weight: 400;
 font-style: italic;
 }
@@ -49,13 +49,13 @@ background-color: #373684;
 
 nav ul {
 list-style-type: none;
-margin: 0;
 text-align: center;
 }
 
 nav li {
-display: inline-block;
+display: block;
 font-size: 2em;
+border-top: 1px solid #e5e9fc;
 }
 
 nav li a {
