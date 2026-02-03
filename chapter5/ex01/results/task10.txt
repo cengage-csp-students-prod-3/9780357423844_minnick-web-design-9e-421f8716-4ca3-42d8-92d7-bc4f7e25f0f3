@@ -3,10 +3,10 @@ Status: PASSED!
 Check: 1
 Test: In the *lessons.html* file, add a class attribute with a value of **round** to the three image elements.
 Reason: None
-Timestamp: 2026-02-03 16:33:38.001601
+Timestamp: 2026-02-03 16:37:05.523510
 
 Status: PASSED!
 Check: 2
 Test: In the *styles.css* file, below the `#info ul` style rule, create a new style rule for the `round` class selector that specifies a `border-radius` of **8px**.
 Reason: None
-Timestamp: 2026-02-03 16:33:38.093770
+Timestamp: 2026-02-03 16:37:05.594483
