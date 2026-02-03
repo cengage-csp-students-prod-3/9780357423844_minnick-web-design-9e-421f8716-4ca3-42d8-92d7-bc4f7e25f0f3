@@ -1,0 +1,14 @@
+
+Status: FAILED!
+Check: 1
+Test: Add a `width` property with a value of 95%
+Reason: Assertion failed: The `.map` class selector does not have a `width` property with a value of `95%`
+Error : AssertionError - The `.map` class selector does not have a `width` property with a value of `95%`
+Timestamp: 2026-02-03 16:32:52.769144
+
+Status: FAILED!
+Check: 2
+Test: Add a `height` property of 50%
+Reason: Assertion failed: The `.map` class selector does not have a `height` property with a value of `50%`.
+Error : AssertionError - The `.map` class selector does not have a `height` property with a value of `50%`.
+Timestamp: 2026-02-03 16:32:53.168736
