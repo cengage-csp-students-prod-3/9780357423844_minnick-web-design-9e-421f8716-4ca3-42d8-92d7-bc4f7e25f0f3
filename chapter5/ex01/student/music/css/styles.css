@@ -130,6 +130,8 @@ font-weight: bold;
 
 .map {
 border: 5px solid #373684;
+width: 95%;
+height: 50%;
 }
 
 /* Style rules for footer content */
