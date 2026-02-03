@@ -99,6 +99,10 @@ padding: 1% 2%;
 	margin: 10%;
 }
 
+round {
+	border-radius: 8px;
+}
+
 /* Style rules for contact content */
 #contact {
 text-align: center;
