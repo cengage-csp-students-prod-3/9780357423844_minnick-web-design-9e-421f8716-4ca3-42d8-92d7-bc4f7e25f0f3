@@ -1,0 +1,18 @@
+
+Status: PASSED!
+Check: 1
+Test: In the *contact.html* file, remove the text, **Phone Number:**, from the first paragraph element within the `main` `div` element. Wrap the phone number within an anchor element that links to the phone number. Add a class attribute with the value **tel-link** to the parent paragraph element that contains the phone number link.
+Reason: None
+Timestamp: 2026-02-03 16:31:03.637482
+
+Status: PASSED!
+Check: 2
+Test: Wrap the phone number within an anchor element that links to the phone number.
+Reason: None
+Timestamp: 2026-02-03 16:31:03.639686
+
+Status: PASSED!
+Check: 3
+Test: Add a class attribute with the value **email-link** to the anchor element that links to the email address within the `main` element.
+Reason: None
+Timestamp: 2026-02-03 16:31:03.641386
