@@ -22,7 +22,7 @@ img {
 }
 
 /* Style rules for mobile viewport */
-.mobile P{
+.mobile {
     display:block;
 }
 
@@ -32,7 +32,13 @@ img {
 }
 
 /*Style rules for header area*/
-h1, h3 {
+.mobile h1{
+    padding:2%;
+    text-align: center;
+}
+
+/*Style rules for header area*/
+.mobile h3{
     padding:2%;
     text-align: center;
 }
