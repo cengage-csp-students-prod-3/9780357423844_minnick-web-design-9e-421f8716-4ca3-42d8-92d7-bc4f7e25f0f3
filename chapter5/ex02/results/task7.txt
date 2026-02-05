@@ -3,13 +3,13 @@ Status: PASSED!
 Check: 1
 Test: Add the `ul` selector to the CSS reset style rule. 
 Reason: None
-Timestamp: 2026-02-05 16:38:16.318653
+Timestamp: 2026-02-05 16:45:44.745154
 
 Status: PASSED!
 Check: 2
 Test: Remove the declaration for the `margin` property in the `nav ul` style rule.
 Reason: None
-Timestamp: 2026-02-05 16:38:16.357846
+Timestamp: 2026-02-05 16:45:44.777429
 
 Status: FAILED!
 Check: 3
@@ -17,45 +17,45 @@ Test: Modify the `nav li` style rule by changing the `display` value to  **block
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li"}
   (Session info: chrome=144.0.7559.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c8db6feafa <unknown>
-#1 0x55c8db11860f <unknown>
-#2 0x55c8db16da16 <unknown>
-#3 0x55c8db16dc51 <unknown>
-#4 0x55c8db1b9404 <unknown>
-#5 0x55c8db1b662b <unknown>
-#6 0x55c8db15f842 <unknown>
-#7 0x55c8db160631 <unknown>
-#8 0x55c8db6c4689 <unknown>
-#9 0x55c8db6c7581 <unknown>
-#10 0x55c8db6b0ca9 <unknown>
-#11 0x55c8db6c813e <unknown>
-#12 0x55c8db6973a0 <unknown>
-#13 0x55c8db6ebfc8 <unknown>
-#14 0x55c8db6ec19b <unknown>
-#15 0x55c8db6fde68 <unknown>
-#16 0x7fb9b549caa4 <unknown>
-#17 0x7fb9b5529c6c <unknown>
+#0 0x556c1c1c5afa <unknown>
+#1 0x556c1bbdf60f <unknown>
+#2 0x556c1bc34a16 <unknown>
+#3 0x556c1bc34c51 <unknown>
+#4 0x556c1bc80404 <unknown>
+#5 0x556c1bc7d62b <unknown>
+#6 0x556c1bc26842 <unknown>
+#7 0x556c1bc27631 <unknown>
+#8 0x556c1c18b689 <unknown>
+#9 0x556c1c18e581 <unknown>
+#10 0x556c1c177ca9 <unknown>
+#11 0x556c1c18f13e <unknown>
+#12 0x556c1c15e3a0 <unknown>
+#13 0x556c1c1b2fc8 <unknown>
+#14 0x556c1c1b319b <unknown>
+#15 0x556c1c1c4e68 <unknown>
+#16 0x7f927fe9caa4 <unknown>
+#17 0x7f927ff29c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li"}
   (Session info: chrome=144.0.7559.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c8db6feafa <unknown>
-#1 0x55c8db11860f <unknown>
-#2 0x55c8db16da16 <unknown>
-#3 0x55c8db16dc51 <unknown>
-#4 0x55c8db1b9404 <unknown>
-#5 0x55c8db1b662b <unknown>
-#6 0x55c8db15f842 <unknown>
-#7 0x55c8db160631 <unknown>
-#8 0x55c8db6c4689 <unknown>
-#9 0x55c8db6c7581 <unknown>
-#10 0x55c8db6b0ca9 <unknown>
-#11 0x55c8db6c813e <unknown>
-#12 0x55c8db6973a0 <unknown>
-#13 0x55c8db6ebfc8 <unknown>
-#14 0x55c8db6ec19b <unknown>
-#15 0x55c8db6fde68 <unknown>
-#16 0x7fb9b549caa4 <unknown>
-#17 0x7fb9b5529c6c <unknown>
+#0 0x556c1c1c5afa <unknown>
+#1 0x556c1bbdf60f <unknown>
+#2 0x556c1bc34a16 <unknown>
+#3 0x556c1bc34c51 <unknown>
+#4 0x556c1bc80404 <unknown>
+#5 0x556c1bc7d62b <unknown>
+#6 0x556c1bc26842 <unknown>
+#7 0x556c1bc27631 <unknown>
+#8 0x556c1c18b689 <unknown>
+#9 0x556c1c18e581 <unknown>
+#10 0x556c1c177ca9 <unknown>
+#11 0x556c1c18f13e <unknown>
+#12 0x556c1c15e3a0 <unknown>
+#13 0x556c1c1b2fc8 <unknown>
+#14 0x556c1c1b319b <unknown>
+#15 0x556c1c1c4e68 <unknown>
+#16 0x7f927fe9caa4 <unknown>
+#17 0x7f927ff29c6c <unknown>
 
-Timestamp: 2026-02-05 16:38:17.391336
+Timestamp: 2026-02-05 16:45:45.825742
