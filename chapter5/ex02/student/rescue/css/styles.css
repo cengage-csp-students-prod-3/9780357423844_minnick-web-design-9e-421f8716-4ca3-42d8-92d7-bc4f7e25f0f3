@@ -121,6 +121,20 @@ main ul {
     text-align: center;
 }
 
+.tel-link {
+    background-color: #2a1f14;
+    padding: 2%;
+    width: 80%;
+    margin-top: 0;
+    margin-right: auto;
+}
+
+.tel-link a {
+    color: #2a1f14;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 /* Style rules for footer content */
 footer {
     text-align: center;
