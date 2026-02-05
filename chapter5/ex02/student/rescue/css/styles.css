@@ -73,7 +73,7 @@ nav li {
 nav li a {
     display: block;
     color: #f6eee4;
-    padding: 0.5em, 2em;
+    padding: 0.5em 2em;
     text-decoration: none;
 }
 
@@ -122,7 +122,6 @@ main ul {
 }
 
 .tel-link {
-    display: inline-block;
     background-color: #2a1f14;
     padding: 2%;
     width: 80%;
