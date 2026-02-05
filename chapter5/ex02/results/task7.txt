@@ -1,0 +1,61 @@
+
+Status: PASSED!
+Check: 1
+Test: Add the `ul` selector to the CSS reset style rule. 
+Reason: None
+Timestamp: 2026-02-05 16:10:51.034945
+
+Status: PASSED!
+Check: 2
+Test: Remove the declaration for the `margin` property in the `nav ul` style rule.
+Reason: None
+Timestamp: 2026-02-05 16:10:51.234045
+
+Status: FAILED!
+Check: 3
+Test: Modify the `nav li` style rule by changing the `display` value to  **block** and add a top border that specifies a **solid border width** of **0.5px** with the `color` value **#f6eee4**.
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li"}
+  (Session info: chrome=144.0.7559.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55b3a970cafa <unknown>
+#1 0x55b3a912660f <unknown>
+#2 0x55b3a917ba16 <unknown>
+#3 0x55b3a917bc51 <unknown>
+#4 0x55b3a91c7404 <unknown>
+#5 0x55b3a91c462b <unknown>
+#6 0x55b3a916d842 <unknown>
+#7 0x55b3a916e631 <unknown>
+#8 0x55b3a96d2689 <unknown>
+#9 0x55b3a96d5581 <unknown>
+#10 0x55b3a96beca9 <unknown>
+#11 0x55b3a96d613e <unknown>
+#12 0x55b3a96a53a0 <unknown>
+#13 0x55b3a96f9fc8 <unknown>
+#14 0x55b3a96fa19b <unknown>
+#15 0x55b3a970be68 <unknown>
+#16 0x7fce8a89caa4 <unknown>
+#17 0x7fce8a929c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li"}
+  (Session info: chrome=144.0.7559.96); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55b3a970cafa <unknown>
+#1 0x55b3a912660f <unknown>
+#2 0x55b3a917ba16 <unknown>
+#3 0x55b3a917bc51 <unknown>
+#4 0x55b3a91c7404 <unknown>
+#5 0x55b3a91c462b <unknown>
+#6 0x55b3a916d842 <unknown>
+#7 0x55b3a916e631 <unknown>
+#8 0x55b3a96d2689 <unknown>
+#9 0x55b3a96d5581 <unknown>
+#10 0x55b3a96beca9 <unknown>
+#11 0x55b3a96d613e <unknown>
+#12 0x55b3a96a53a0 <unknown>
+#13 0x55b3a96f9fc8 <unknown>
+#14 0x55b3a96fa19b <unknown>
+#15 0x55b3a970be68 <unknown>
+#16 0x7fce8a89caa4 <unknown>
+#17 0x7fce8a929c6c <unknown>
+
+Timestamp: 2026-02-05 16:10:52.275503
