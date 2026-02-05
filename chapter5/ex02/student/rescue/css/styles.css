@@ -46,7 +46,7 @@ img {
     text-align: center;
     font-family: "Lora", serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: normal;
     font-style: normal;
 }
 
@@ -80,7 +80,7 @@ nav li a {
 /* Style rules for main content */
 main {
     padding: 2%;
-    font-family: Verdana, Arial, sans-serif, Lora;
+    font-family: Verdana, Arial, sans-serif, "Lora";
 }
 
 main p {
@@ -141,7 +141,7 @@ footer {
     font-size: 0.85em;
     background-color: #2a1f14;
     color: #f6eee4;
-    padding: 1%, 0%;
+    padding: 1% 0%;
 }
 
 footer a {
