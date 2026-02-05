@@ -31,6 +31,12 @@ img {
     display:none
 }
 
+/*Style rules for header area*/
+.mobile h1, .mobile h3 {
+    padding:2%;
+    text-align: center;
+}
+
 /* Style rules for navigation area */
 nav {
     background-color: #2a1f14;
