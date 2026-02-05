@@ -1,28 +1,24 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Navigate to your *rescue* folder and open the *index.html* nest the following `meta` `viewport` element within the `head` element.
-Reason: Assertion failed: The `content` attribute value is not set to `width=device-width, initial-scale=1.0` for the `meta` element with the `name` attribute of `viewport`.
-Error : AssertionError - The `content` attribute value is not set to `width=device-width, initial-scale=1.0` for the `meta` element with the `name` attribute of `viewport`.
-Timestamp: 2026-02-05 15:43:41.961086
+Reason: None
+Timestamp: 2026-02-05 15:48:53.849993
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Navigate to your *rescue* folder and open the *about.html* nest the following `meta` `viewport` element within the `head` element.
-Reason: Assertion failed: The `content` attribute value is not set to `width=device-width, initial-scale=1.0` for the `meta` element with the `name` attribute of `viewport`.
-Error : AssertionError - The `content` attribute value is not set to `width=device-width, initial-scale=1.0` for the `meta` element with the `name` attribute of `viewport`.
-Timestamp: 2026-02-05 15:43:41.963774
+Reason: None
+Timestamp: 2026-02-05 15:48:53.851546
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Navigate to your *rescue* folder and open the *contact.html* nest the following `meta` `viewport` element within the `head` element.
-Reason: Assertion failed: The `content` attribute value is not set to `width=device-width, initial-scale=1.0` for the `meta` element with the `name` attribute of `viewport`.
-Error : AssertionError - The `content` attribute value is not set to `width=device-width, initial-scale=1.0` for the `meta` element with the `name` attribute of `viewport`.
-Timestamp: 2026-02-05 15:43:41.965661
+Reason: None
+Timestamp: 2026-02-05 15:48:53.852712
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Navigate to your *rescue* folder and open the *template.html* nest the following `meta` `viewport` element within the `head` element.
-Reason: Assertion failed: The `content` attribute value is not set to `width=device-width, initial-scale=1.0` for the `meta` element with the `name` attribute of `viewport`.
-Error : AssertionError - The `content` attribute value is not set to `width=device-width, initial-scale=1.0` for the `meta` element with the `name` attribute of `viewport`.
-Timestamp: 2026-02-05 15:43:41.967311
+Reason: None
+Timestamp: 2026-02-05 15:48:53.853706
