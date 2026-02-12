@@ -186,4 +186,6 @@ nav li:last-chid {
 	height: 450px;
 }
 
-
+/*Media Query for Desktop Viewport*/
+@media print and (min-width: 769px) {
+}
