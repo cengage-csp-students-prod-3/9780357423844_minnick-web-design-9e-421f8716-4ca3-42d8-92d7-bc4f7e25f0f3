@@ -161,10 +161,6 @@ text-decoration: none;
 span.tab-desk {
     display: inline;
 }
-}
-
-
-
 
 /*Tablet Viewport: Style rules for nav area*/
 nav li {
@@ -181,6 +177,13 @@ nav li {
 nav li:last-chid {
 	border-right:none;
 }
+
+}
+
+
+
+
+
 
 /*Tablet Viewport: Style rule for map*/
 .map {
