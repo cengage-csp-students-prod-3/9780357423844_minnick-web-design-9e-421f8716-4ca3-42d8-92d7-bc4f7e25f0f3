@@ -148,7 +148,7 @@ text-decoration: none;
 
 
 /* Media Query for Tablet Viewport */
-@media screen and (min-width: 550px), print {  } {
+@media screen and (min-width: 550px), print {
 /* Tablet Viewport: Show tab-desk class, hide mobile class */  
 .tab-desk {
     display: block;
@@ -173,6 +173,12 @@ nav li {
 nav li:last-chid {
 	border-right:none;
 }
+
+/*Tablet Viewport: Style rule for map*/
+.map {
+	width: 500px;
+	height: 450px;
+}
 }
 
 nav li a {
@@ -184,15 +190,8 @@ nav li a {
 
 
 
-
-/*Tablet Viewport: Style rule for map*/
-.map {
-	width: 500px;
-	height: 450px;
-}
-
 /*Media Query for Desktop Viewport*/
-@media print and (min-width: 769px) {
+@media screen and (min-width: 769px). print{
 }
 
 /*Desktop Viewport: Style rule for header*/
