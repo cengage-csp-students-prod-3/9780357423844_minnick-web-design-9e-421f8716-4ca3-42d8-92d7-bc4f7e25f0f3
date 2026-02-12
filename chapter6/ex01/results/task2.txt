@@ -1,0 +1,105 @@
+
+Status: FAILED!
+Check: 1
+Test: The tab-desk class was set to display block within the tablet media query.
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.tab-desk"}
+  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5622008224ba <unknown>
+#1 0x56220028b492 <unknown>
+#2 0x5622002e09b6 <unknown>
+#3 0x5622002e0bf1 <unknown>
+#4 0x56220032c4d4 <unknown>
+#5 0x562200329700 <unknown>
+#6 0x5622002d26a2 <unknown>
+#7 0x5622002d3491 <unknown>
+#8 0x5622007e8479 <unknown>
+#9 0x5622007eb391 <unknown>
+#10 0x5622007d4a89 <unknown>
+#11 0x5622007ebf4e <unknown>
+#12 0x5622007bb070 <unknown>
+#13 0x56220080fca8 <unknown>
+#14 0x56220080fe78 <unknown>
+#15 0x562200821828 <unknown>
+#16 0x7fe5aea9caa4 <unknown>
+#17 0x7fe5aeb29c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.tab-desk"}
+  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5622008224ba <unknown>
+#1 0x56220028b492 <unknown>
+#2 0x5622002e09b6 <unknown>
+#3 0x5622002e0bf1 <unknown>
+#4 0x56220032c4d4 <unknown>
+#5 0x562200329700 <unknown>
+#6 0x5622002d26a2 <unknown>
+#7 0x5622002d3491 <unknown>
+#8 0x5622007e8479 <unknown>
+#9 0x5622007eb391 <unknown>
+#10 0x5622007d4a89 <unknown>
+#11 0x5622007ebf4e <unknown>
+#12 0x5622007bb070 <unknown>
+#13 0x56220080fca8 <unknown>
+#14 0x56220080fe78 <unknown>
+#15 0x562200821828 <unknown>
+#16 0x7fe5aea9caa4 <unknown>
+#17 0x7fe5aeb29c6c <unknown>
+
+Timestamp: 2026-02-12 17:25:48.715114
+
+Status: FAILED!
+Check: 2
+Test: The `display` value of `.mobile` was set to `none` within the tablet media query.
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.mobile"}
+  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5622008224ba <unknown>
+#1 0x56220028b492 <unknown>
+#2 0x5622002e09b6 <unknown>
+#3 0x5622002e0bf1 <unknown>
+#4 0x56220032c4d4 <unknown>
+#5 0x562200329700 <unknown>
+#6 0x5622002d26a2 <unknown>
+#7 0x5622002d3491 <unknown>
+#8 0x5622007e8479 <unknown>
+#9 0x5622007eb391 <unknown>
+#10 0x5622007d4a89 <unknown>
+#11 0x5622007ebf4e <unknown>
+#12 0x5622007bb070 <unknown>
+#13 0x56220080fca8 <unknown>
+#14 0x56220080fe78 <unknown>
+#15 0x562200821828 <unknown>
+#16 0x7fe5aea9caa4 <unknown>
+#17 0x7fe5aeb29c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.mobile"}
+  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5622008224ba <unknown>
+#1 0x56220028b492 <unknown>
+#2 0x5622002e09b6 <unknown>
+#3 0x5622002e0bf1 <unknown>
+#4 0x56220032c4d4 <unknown>
+#5 0x562200329700 <unknown>
+#6 0x5622002d26a2 <unknown>
+#7 0x5622002d3491 <unknown>
+#8 0x5622007e8479 <unknown>
+#9 0x5622007eb391 <unknown>
+#10 0x5622007d4a89 <unknown>
+#11 0x5622007ebf4e <unknown>
+#12 0x5622007bb070 <unknown>
+#13 0x56220080fca8 <unknown>
+#14 0x56220080fe78 <unknown>
+#15 0x562200821828 <unknown>
+#16 0x7fe5aea9caa4 <unknown>
+#17 0x7fe5aeb29c6c <unknown>
+
+Timestamp: 2026-02-12 17:25:50.013382
+
+Status: FAILED!
+Check: 3
+Test: The span.tab-desk class was set to display inline within the tablet media query.
+Reason: Assertion failed: The `display` value of `.tab-desk` was not `inline`.
+Error : AssertionError - The `display` value of `.tab-desk` was not `inline`.
+Timestamp: 2026-02-12 17:25:50.363931
