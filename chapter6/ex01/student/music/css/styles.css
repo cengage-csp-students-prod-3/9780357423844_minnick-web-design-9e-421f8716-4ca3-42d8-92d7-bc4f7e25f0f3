@@ -209,4 +209,20 @@ nav li a:hover {
 	background-color: #e5e9fc;
 }
 
+/*Desktop Viewport: Style rules for main content*/
+#info ul {
+	margin-left: 5%;
+}
+
+main h3 {
+	font-size: 1.5em;
+}
+
+#piano, #guitar, #violin {
+	width: 29%;
+	float: left;
+	margin-top: 0;
+	margin-right: 2%;
+}
+
 }
