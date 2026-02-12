@@ -180,3 +180,10 @@ nav li:last-chid {
 	border-right:none;
 }
 
+/*Tablet Viewport: Style rule for map*/
+.map {
+	width: 500px;
+	height: 450px;
+}
+
+
