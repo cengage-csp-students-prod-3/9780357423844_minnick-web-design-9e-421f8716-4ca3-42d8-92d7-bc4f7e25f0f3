@@ -148,8 +148,7 @@ text-decoration: none;
 
 
 /* Media Query for Tablet Viewport */
-@media screen and (min-width: 550px), print {  }
-
+@media screen and (min-width: 550px), print {  } {
 /* Tablet Viewport: Show tab-desk class, hide mobile class */  
 .tab-desk {
     display: block;
@@ -162,6 +161,9 @@ text-decoration: none;
 span.tab-desk {
     display: inline;
 }
+}
+
+
 
 
 /*Tablet Viewport: Style rules for nav area*/
@@ -189,3 +191,9 @@ nav li:last-chid {
 /*Media Query for Desktop Viewport*/
 @media print and (min-width: 769px) {
 }
+
+/*Desktop Viewport: Style rule for header*/
+header {
+	padding: 2%
+}
+
