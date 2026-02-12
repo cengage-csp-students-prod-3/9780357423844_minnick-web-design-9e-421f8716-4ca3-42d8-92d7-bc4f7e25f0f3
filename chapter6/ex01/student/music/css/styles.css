@@ -162,3 +162,17 @@ text-decoration: none;
 span.tab-desk {
     display: inline;
 }
+
+
+/*Tablet Viewport: Style rules for nav area*/
+nav li {
+	border-top: none;
+	display: inline-block;
+	font-size: 1.5em;
+	border-right: 1px solid #e5e9fc;
+}
+
+nav li:last-chid {
+	border-right:none;
+}
+
