@@ -196,7 +196,17 @@ nav li a {
 /*Desktop Viewport: Style rule for header*/
 header {
 	padding: 2%
-
-	
 }
 
+/*Desktop Viewport: Style rules for nav area*/
+nav li a {
+	padding-top: .5em;
+	padding-right: 1.5;
+}
+
+nav li a:hover {
+	color: #373684;
+	background-color: #e5e9fc;
+}
+
+}
