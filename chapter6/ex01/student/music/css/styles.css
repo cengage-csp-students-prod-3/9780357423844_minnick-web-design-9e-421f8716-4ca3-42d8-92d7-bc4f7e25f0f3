@@ -191,11 +191,12 @@ nav li a {
 
 
 /*Media Query for Desktop Viewport*/
-@media screen and (min-width: 769px). print{
-}
+@media screen and (min-width: 769px), print {}
 
 /*Desktop Viewport: Style rule for header*/
 header {
 	padding: 2%
+
+	
 }
 
