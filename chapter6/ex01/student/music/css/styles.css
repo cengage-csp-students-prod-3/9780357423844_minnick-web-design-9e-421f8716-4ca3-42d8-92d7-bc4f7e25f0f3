@@ -170,6 +170,10 @@ nav li {
 	display: inline-block;
 	font-size: 1.5em;
 	border-right: 1px solid #e5e9fc;
+	padding-top: .25em;
+	padding-bottom: .25em;
+	padding-left: .5em;
+	padding-right: .5em;
 }
 
 nav li:last-chid {
