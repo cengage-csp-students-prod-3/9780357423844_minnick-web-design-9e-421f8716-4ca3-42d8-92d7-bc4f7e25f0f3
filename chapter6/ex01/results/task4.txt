@@ -1,98 +1,13 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: style rule for the `nav li a` selector that sets the top padding to   **0.25em**
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li a"}
-  (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55dafe78ba4a <unknown>
-#1 0x55dafe1a46a2 <unknown>
-#2 0x55dafe1f9a8d <unknown>
-#3 0x55dafe1f9cd1 <unknown>
-#4 0x55dafe2455c4 <unknown>
-#5 0x55dafe2427f0 <unknown>
-#6 0x55dafe1eb8b2 <unknown>
-#7 0x55dafe1ec6a1 <unknown>
-#8 0x55dafe7518a9 <unknown>
-#9 0x55dafe7547b1 <unknown>
-#10 0x55dafe73dea9 <unknown>
-#11 0x55dafe75536e <unknown>
-#12 0x55dafe724410 <unknown>
-#13 0x55dafe7790c8 <unknown>
-#14 0x55dafe77929b <unknown>
-#15 0x55dafe78adb8 <unknown>
-#16 0x7f603fc9caa4 <unknown>
-#17 0x7f603fd29c6c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li a"}
-  (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55dafe78ba4a <unknown>
-#1 0x55dafe1a46a2 <unknown>
-#2 0x55dafe1f9a8d <unknown>
-#3 0x55dafe1f9cd1 <unknown>
-#4 0x55dafe2455c4 <unknown>
-#5 0x55dafe2427f0 <unknown>
-#6 0x55dafe1eb8b2 <unknown>
-#7 0x55dafe1ec6a1 <unknown>
-#8 0x55dafe7518a9 <unknown>
-#9 0x55dafe7547b1 <unknown>
-#10 0x55dafe73dea9 <unknown>
-#11 0x55dafe75536e <unknown>
-#12 0x55dafe724410 <unknown>
-#13 0x55dafe7790c8 <unknown>
-#14 0x55dafe77929b <unknown>
-#15 0x55dafe78adb8 <unknown>
-#16 0x7f603fc9caa4 <unknown>
-#17 0x7f603fd29c6c <unknown>
-
-Timestamp: 2026-02-12 20:53:06.948598
+Reason: None
+Timestamp: 2026-02-13 01:15:03.256015
 
 Status: FAILED!
 Check: 4
 Test: style rule for the `nav li a` selector that sets the right padding to **0.5em**.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li a"}
-  (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55dafe78ba4a <unknown>
-#1 0x55dafe1a46a2 <unknown>
-#2 0x55dafe1f9a8d <unknown>
-#3 0x55dafe1f9cd1 <unknown>
-#4 0x55dafe2455c4 <unknown>
-#5 0x55dafe2427f0 <unknown>
-#6 0x55dafe1eb8b2 <unknown>
-#7 0x55dafe1ec6a1 <unknown>
-#8 0x55dafe7518a9 <unknown>
-#9 0x55dafe7547b1 <unknown>
-#10 0x55dafe73dea9 <unknown>
-#11 0x55dafe75536e <unknown>
-#12 0x55dafe724410 <unknown>
-#13 0x55dafe7790c8 <unknown>
-#14 0x55dafe77929b <unknown>
-#15 0x55dafe78adb8 <unknown>
-#16 0x7f603fc9caa4 <unknown>
-#17 0x7f603fd29c6c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li a"}
-  (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55dafe78ba4a <unknown>
-#1 0x55dafe1a46a2 <unknown>
-#2 0x55dafe1f9a8d <unknown>
-#3 0x55dafe1f9cd1 <unknown>
-#4 0x55dafe2455c4 <unknown>
-#5 0x55dafe2427f0 <unknown>
-#6 0x55dafe1eb8b2 <unknown>
-#7 0x55dafe1ec6a1 <unknown>
-#8 0x55dafe7518a9 <unknown>
-#9 0x55dafe7547b1 <unknown>
-#10 0x55dafe73dea9 <unknown>
-#11 0x55dafe75536e <unknown>
-#12 0x55dafe724410 <unknown>
-#13 0x55dafe7790c8 <unknown>
-#14 0x55dafe77929b <unknown>
-#15 0x55dafe78adb8 <unknown>
-#16 0x7f603fc9caa4 <unknown>
-#17 0x7f603fd29c6c <unknown>
-
-Timestamp: 2026-02-12 20:53:07.983019
+Reason: Assertion failed: The `padding-left` value of `nav li a` was not `0.5em`.
+Error : AssertionError - The `padding-left` value of `nav li a` was not `0.5em`.
+Timestamp: 2026-02-13 01:15:03.270107
