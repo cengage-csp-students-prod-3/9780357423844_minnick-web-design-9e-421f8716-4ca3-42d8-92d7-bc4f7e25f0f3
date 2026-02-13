@@ -160,4 +160,12 @@ footer a {
         display:none;
     }
     /* **Tablet Viewport: Style rules for nav area ** */
+    nav li {
+        border-top: none;
+        display: inline-block;
+        font-size: 1.25em;
+    }
+    nav li a {
+        padding: .5em;
+    }
 }
