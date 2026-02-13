@@ -159,7 +159,7 @@ footer a {
     .mobile {
         display:none;
     }
-    /* **Tablet Viewport: Style rules for nav area ** */
+    /* Tablet Viewport: Style rules for nav area */
     nav li {
         border-top: none;
         display: inline-block;
