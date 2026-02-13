@@ -181,7 +181,6 @@ border-right:none;
 width: 500px;
 height: 450px;
 }
-}
 
 nav li a {
 padding-top: .25em;
@@ -189,7 +188,7 @@ padding-bottom: .25em;
 padding-left: .5em;
 padding-right: .5em;
 }
-
+}
 
 
 /*Media Query for Desktop Viewport*/
