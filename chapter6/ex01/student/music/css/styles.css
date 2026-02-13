@@ -22,7 +22,7 @@ display: block;
 
 /* Hide tab-desk class */
 .tab-desk {
-    display: none;
+display: none;
 }
 
 /* Style rules for header content */
@@ -34,6 +34,8 @@ color: #373684;
 
 header h1 {
 font-style: italic;
+}
+
 .dm-serif-display-regular-italic {
 font-family: "Roboto", serif;
 font-weight: 400;
@@ -96,7 +98,7 @@ padding: 1% 2%;
 }
 
 #info ul {
-	margin: 10%;
+margin: 10%;
 }
 
 .round {
@@ -115,19 +117,19 @@ font-weight: bold;
 }
 
 .tel-link {
-    background-color: #373684;
-		padding: 2%;
-		margin: 0 auto;
-		width: 80%;
-		text-align: center;
-		border-radius: 5px;
+background-color: #373684;
+padding: 2%;
+margin: 0 auto;
+width: 80%;
+text-align: center;
+border-radius: 5px;
 } 
 .tel-link a {
-    color: #fff;
-		text-decoration: none;
-		font-size: 1.5em;
-		display: block;
-
+color: #fff;
+text-decoration: none;
+font-size: 1.5em;
+display: block;
+}
 .map {
 border: 5px solid #373684;
 width: 95%;
@@ -151,41 +153,41 @@ text-decoration: none;
 @media screen and (min-width: 550px), print {
 /* Tablet Viewport: Show tab-desk class, hide mobile class */  
 .tab-desk {
-    display: block;
+display: block;
 } 
 .mobile {
-    display: none;  
+display: none;  
 } 
 
 /* Tablet Viewport: Style rule for header content */     
 span.tab-desk {
-    display: inline;
+display: inline;
 }
 
 /*Tablet Viewport: Style rules for nav area*/
 nav li {
-	border-top: none;
-	display: inline-block;
-	font-size: 1.5em;
-	border-right: 1px solid #e5e9fc;
+border-top: none;
+display: inline-block;
+font-size: 1.5em;
+border-right: 1px solid #e5e9fc;
 }
 
-nav li:last-chid {
-	border-right:none;
+nav li:last-child {
+border-right:none;
 }
 
 /*Tablet Viewport: Style rule for map*/
 .map {
-	width: 500px;
-	height: 450px;
+width: 500px;
+height: 450px;
 }
 }
 
 nav li a {
-	padding-top: .25em;
-	padding-bottom: .25em;
-	padding-left: .5em;
-	padding-right: .5em;
+padding-top: .25em;
+padding-bottom: .25em;
+padding-left: .5em;
+padding-right: .5em;
 }
 
 
@@ -195,42 +197,42 @@ nav li a {
 
 /*Desktop Viewport: Style rule for header*/
 header {
-	padding: 2%
+padding: 2%
 }
 
 /*Desktop Viewport: Style rules for nav area*/
 nav li a {
-	padding-top: .5em;
-	padding-right: 1.5;
+padding-top: .5em;
+padding-right: 1.5;
 }
 
 nav li a:hover {
-	color: #373684;
-	background-color: #e5e9fc;
+color: #373684;
+background-color: #e5e9fc;
 }
 
 /*Desktop Viewport: Style rules for main content*/
 #info ul {
-	margin-left: 5%;
+margin-left: 5%;
 }
 
 main h3 {
-	font-size: 1.5em;
+font-size: 1.5em;
 }
 
 #piano, #guitar, #violin {
-	width: 29%;
-	float: left;
-	margin-top: 0;
-	margin-right: 2%;
+width: 29%;
+float: left;
+margin-top: 0;
+margin-right: 2%;
 }
 
 }
 
 /*Media Query for Print*/
 @media print {
-	body {
-		background-color: #fff;
-		color: #000;
-	}
+body {
+background-color: #fff;
+color: #000;
+}
 }
