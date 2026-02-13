@@ -1,38 +1,36 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: add a comment with the text, /* Media Query for Large Desktop Viewports */
-Reason: Assertion failed: The comment was not found in the styles.css file. (/* Media Query for Large Desktop Viewports */)
-Error : AssertionError - The comment was not found in the styles.css file. (/* Media Query for Large Desktop Viewports */)
-Timestamp: 2026-02-13 01:59:21.681746
+Reason: None
+Timestamp: 2026-02-13 02:00:44.924912
 
 Status: PASSED!
 Check: 2
 Test: add a media query that targets a screen with a minimum width of **1921px**
 Reason: None
-Timestamp: 2026-02-13 01:59:21.682602
+Timestamp: 2026-02-13 02:00:44.926539
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Style rule for the `body` element that sets the background to a `linear-gradient` with the `color` values **#f6eee4** and **#78593a**
-Reason: Assertion failed: The body element does not have a linear-gradient background
-Error : AssertionError - The body element does not have a linear-gradient background
-Timestamp: 2026-02-13 01:59:21.858916
+Reason: None
+Timestamp: 2026-02-13 02:00:45.008959
 
 Status: PASSED!
 Check: 4
 Test: Style rule for the `#wrapper` selector that sets the `width` to **1920px**,
 Reason: None
-Timestamp: 2026-02-13 01:59:21.884000
+Timestamp: 2026-02-13 02:00:45.050214
 
 Status: PASSED!
 Check: 5
 Test: Style rule for the `#wrapper` selector that sets the top and bottom margin to **0**, and left and right margins to **auto**
 Reason: None
-Timestamp: 2026-02-13 01:59:21.923852
+Timestamp: 2026-02-13 02:00:45.078577
 
 Status: PASSED!
 Check: 6
 Test: Style rule for the `main` selector that sets the `background-color` to  **#f6eee4**
 Reason: None
-Timestamp: 2026-02-13 01:59:21.965166
+Timestamp: 2026-02-13 02:00:45.112090
