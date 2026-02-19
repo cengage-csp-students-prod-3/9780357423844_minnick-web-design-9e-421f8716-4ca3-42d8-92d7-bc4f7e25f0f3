@@ -48,12 +48,12 @@ footer {
 
 /*Media Query for Tablet Viewport*/
 @media screen and (min-width:481px) {
-    .article {
+    article {
         width: 43%;
         float: left;
         height: 160px;
     }
-    .footer {
+    footer {
         clear: left;
     }
 }
