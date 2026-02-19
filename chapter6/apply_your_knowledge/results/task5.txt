@@ -1,13 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add a comment with the text, **Media Query for Desktop Viewport**.
-Reason: Assertion failed: Could not find the comment 'Media Query for Desktop Viewport' in the styles.css file. Did you add the comment?
-Error : AssertionError - Could not find the comment 'Media Query for Desktop Viewport' in the styles.css file. Did you add the comment?
-Timestamp: 2026-02-19 17:27:15.223326
+Reason: None
+Timestamp: 2026-02-19 17:50:29.249637
 
 Status: PASSED!
 Check: 2
 Test: Add a media query to target a desktop viewport screen with a minimum width of  **900px**.
 Reason: None
-Timestamp: 2026-02-19 17:27:15.223674
+Timestamp: 2026-02-19 17:50:29.249905
