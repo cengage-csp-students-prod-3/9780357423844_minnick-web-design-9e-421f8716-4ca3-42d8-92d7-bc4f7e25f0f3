@@ -45,3 +45,8 @@ footer {
 	text-align: center;
     color: #341509;
 }
+
+/*Media Query for Tablet Viewport*/
+@media screen(min-width:481px), print {
+    
+}
