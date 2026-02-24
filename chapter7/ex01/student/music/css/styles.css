@@ -269,6 +269,12 @@ margin-top: 0;
 margin-right: 2%;
 }
 
+figcaption {
+    font-size: 1em;
+}
+aside {
+    grid-column: 1/span 4;
+}
 }
 
 /*Media Query for Print.*/
