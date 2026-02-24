@@ -225,6 +225,10 @@ padding-right: .5em;
     grid-template-columns: 2;
     grid-gap: 20px;
 }
+
+aside {
+    grid-column: 1/span 2;
+}
 }
 
 
