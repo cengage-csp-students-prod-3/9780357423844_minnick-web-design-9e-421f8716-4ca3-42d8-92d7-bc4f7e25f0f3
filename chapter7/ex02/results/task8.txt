@@ -3,22 +3,24 @@ Status: PASSED!
 Check: 1
 Test: Add the `aside`, `figure`, and `figcaption` elements to the CSS reset
 Reason: None
-Timestamp: 2026-02-24 16:48:15.822193
+Timestamp: 2026-02-24 17:18:52.098299
 
 Status: PASSED!
 Check: 2
 Test: Add a new style rule for the `aside` element
 Reason: None
-Timestamp: 2026-02-24 16:48:15.980992
+Timestamp: 2026-02-24 17:18:52.223446
 
-Status: PASSED!
+Status: FAILED!
 Check: 3
 Test: Add a new style rule for the `figure` element
-Reason: None
-Timestamp: 2026-02-24 16:48:16.021047
+Reason: Assertion failed: The 'figure' element should have a margin value of '2% auto'. found: 5.84375px 0px
+Error : AssertionError - The 'figure' element should have a margin value of '2% auto'. found: 5.84375px 0px
+Timestamp: 2026-02-24 17:18:52.260564
 
-Status: PASSED!
+Status: FAILED!
 Check: 4
 Test: Add a new style rule for the `figcaption` element
-Reason: None
-Timestamp: 2026-02-24 16:48:16.057969
+Reason: Assertion failed: The 'figcaption' element should have a padding value of '2%'., found: 5.6875px
+Error : AssertionError - The 'figcaption' element should have a padding value of '2%'., found: 5.6875px
+Timestamp: 2026-02-24 17:18:52.285809
