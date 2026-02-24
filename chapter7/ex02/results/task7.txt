@@ -3,46 +3,46 @@ Status: PASSED!
 Check: 1
 Test: The ninth figure element contains an img element with the bearded-dragon image.
 Reason: None
-Timestamp: 2026-02-24 17:18:50.407538
+Timestamp: 2026-02-24 17:22:23.221179
 
 Status: PASSED!
 Check: 2
 Test: The ninth figure element contains a figcaption element with the text 'Gizmo was abandoned by his owner and is available for adoption.'.
 Reason: None
-Timestamp: 2026-02-24 17:18:50.410030
+Timestamp: 2026-02-24 17:22:23.223579
 
 Status: PASSED!
 Check: 3
 Test: The tenth figure element contains an img element with the bird image.
 Reason: None
-Timestamp: 2026-02-24 17:18:50.412408
+Timestamp: 2026-02-24 17:22:23.225859
 
 Status: PASSED!
 Check: 4
 Test: The tenth figure element contains a figcaption element with the text 'Peaches was also abandoned by his owner. He loves to talk.'.
 Reason: None
-Timestamp: 2026-02-24 17:18:50.414760
+Timestamp: 2026-02-24 17:22:23.228156
 
 Status: PASSED!
 Check: 5
 Test: The eleventh figure element contains an img element with the hedgehog image.
 Reason: None
-Timestamp: 2026-02-24 17:18:50.417382
+Timestamp: 2026-02-24 17:22:23.230392
 
 Status: PASSED!
 Check: 6
 Test: The eleventh figure element contains a figcaption element with the text 'Sonny was just a baby when he was brought to us for rehabilitation.'.
 Reason: None
-Timestamp: 2026-02-24 17:18:50.419790
+Timestamp: 2026-02-24 17:22:23.233046
 
 Status: PASSED!
 Check: 7
 Test: The twelfth figure element contains an img element with the tortoise-pyramid image.
 Reason: None
-Timestamp: 2026-02-24 17:18:50.422147
+Timestamp: 2026-02-24 17:22:23.235414
 
 Status: PASSED!
 Check: 8
 Test: The twelfth figure element contains a figcaption element with the text 'Poor Victor has 'shell pyramiding,' a form of bone disease.'.
 Reason: None
-Timestamp: 2026-02-24 17:18:50.424587
+Timestamp: 2026-02-24 17:22:23.237886
