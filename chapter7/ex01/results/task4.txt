@@ -1,13 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add the *guitar-instructor* picture and use  **guitar instructor**  for the `alt` text.
-Reason: Assertion failed: Could not find an img with the src value: images/guitar-instructor.jpg and alt text value of: guitar instructor in the instructors.html.
-Error : AssertionError - Could not find an img with the src value: images/guitar-instructor.jpg and alt text value of: guitar instructor in the instructors.html.
-Timestamp: 2026-02-24 15:59:59.355162
+Reason: None
+Timestamp: 2026-02-24 16:02:05.294168
 
 Status: PASSED!
 Check: 2
 Test: Add Figcaption with text 'Jack Williams, Guitar'
 Reason: None
-Timestamp: 2026-02-24 15:59:59.356529
+Timestamp: 2026-02-24 16:02:05.296412
