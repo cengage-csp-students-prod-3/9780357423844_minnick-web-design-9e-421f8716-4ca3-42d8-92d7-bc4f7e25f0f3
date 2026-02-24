@@ -31,6 +31,13 @@ aside {
     text-shadow: 3px 3px 10px #8280cb;
 }
 
+figure{
+    position: relative;
+    max-width: 275px;
+    margin: 2% auto;
+    border: 8px solid #373684;
+}
+
 /* Hide tab-desk class */
 .tab-desk {
 display: none;
