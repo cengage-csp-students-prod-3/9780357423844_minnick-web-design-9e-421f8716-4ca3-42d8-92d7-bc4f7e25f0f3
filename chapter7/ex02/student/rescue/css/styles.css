@@ -189,7 +189,7 @@ footer a {
     }
     .grid {
         display:grid;
-        grid-template-columns: auto auto;
+        grid-template-columns: 2;
         grid-gap: 10px;
     }
     aside {
