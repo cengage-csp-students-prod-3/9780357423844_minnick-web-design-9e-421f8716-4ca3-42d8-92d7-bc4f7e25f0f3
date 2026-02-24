@@ -187,6 +187,14 @@ footer a {
     nav li a {
         padding: 0.5em;
     }
+    .grid {
+        display:grid;
+        grid-template-columns: auto auto;
+        grid-gap: 10px;
+    }
+    aside {
+        grid-column: 1 / span 2;
+    }
 }
 
 /* Media Query for Desktop Viewport */
