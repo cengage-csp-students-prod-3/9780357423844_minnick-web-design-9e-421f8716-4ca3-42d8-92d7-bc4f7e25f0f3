@@ -188,8 +188,8 @@ footer a {
         padding: 0.5em;
     }
     .grid {
-        display:grid;
-        grid-template-columns: 2;
+        display: grid;
+        grid-template-columns: auto auto;
         grid-gap: 10px;
     }
     aside {
