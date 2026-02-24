@@ -1,0 +1,7 @@
+
+Status: FAILED!
+Check: 1
+Test: Copy the image files provided in the resources folder into the images folder inside the music directory.
+Reason: Assertion failed: resources folder found in the current directory. Please move the image files to the music/images folder.
+Error : AssertionError - resources folder found in the current directory. Please move the image files to the music/images folder.
+Timestamp: 2026-02-24 16:12:08.941737
