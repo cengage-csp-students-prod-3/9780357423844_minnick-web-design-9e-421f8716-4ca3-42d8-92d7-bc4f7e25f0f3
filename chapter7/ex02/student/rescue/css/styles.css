@@ -244,4 +244,11 @@ footer a {
     main {
         background-color: #f6eee4;
     }
+    .grid {
+        grid-template-columns: auto auto auto auto;
+    }
+    aside {
+        grid-column: 1/span 4;
+        font-size: 3em;
+    }
 }
