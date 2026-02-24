@@ -5,7 +5,7 @@ Date: 01/29/2026
 */
 
 /* CSS Reset */
-body, header, nav, main, footer, img, h1, ul {
+body, header, nav, main, footer, img, h1, ul, section, aside, figure, figcaption {
 margin: 0;
 padding: 0;
 border: 0;
@@ -17,8 +17,19 @@ max-width: 100%;
 display: block;
 }
 
-/* Style rules for mobile viewport */
+/* Style rule for box sizing applies to all elements */  
+* {  
+        box-sizing: border-box; 
+	 }
 
+/* Style rules for mobile viewport */
+aside {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #373684;
+    text-shadow: 3px 3px 10px #8280cb;
+}
 
 /* Hide tab-desk class */
 .tab-desk {
