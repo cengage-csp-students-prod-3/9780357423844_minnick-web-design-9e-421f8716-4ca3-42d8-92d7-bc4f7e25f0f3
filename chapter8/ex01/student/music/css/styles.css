@@ -137,7 +137,7 @@ border-radius: 8px;
 }
 
 /* Style rules for contact content */
-#contact {
+#contact, #rental, #form {
 text-align: center;
 }
 
