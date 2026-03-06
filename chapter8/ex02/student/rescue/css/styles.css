@@ -261,6 +261,9 @@ footer a {
     tr:nth-child(odd) {
         background-color: #deccba;
     }
+    form {
+        width: auto;
+    }
 }
 
 /* Media Query for Large Desktop Viewports */
