@@ -1,0 +1,19 @@
+
+Status: PASSED!
+Check: 1
+Test: Nest two `fieldsets` within the `form` element.
+Reason: None
+Timestamp: 2026-03-06 02:11:33.708298
+
+Status: PASSED!
+Check: 2
+Test: Include a `legend` for each `fieldset`.
+Reason: None
+Timestamp: 2026-03-06 02:11:33.710569
+
+Status: FAILED!
+Check: 3
+Test: Use the text  **Customer Information** for the first `fieldset legend`, and **Musical Interest**  for the second `fieldset legend`.
+Reason: Assertion failed: First legend text does not match
+Error : AssertionError - First legend text does not match
+Timestamp: 2026-03-06 02:11:33.712852
