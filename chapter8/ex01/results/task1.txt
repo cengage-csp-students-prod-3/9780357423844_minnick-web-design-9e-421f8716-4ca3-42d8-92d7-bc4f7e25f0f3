@@ -1,0 +1,18 @@
+
+Status: PASSED!
+Check: 1
+Test: Open the *template.html* file and use it to create a new page with the file name,   **rentals.html**.
+Reason: None
+Timestamp: 2026-03-06 02:09:53.817202
+
+Status: PASSED!
+Check: 2
+Test: Update the comment with **your name** (firstname lastname)
+Reason: 'Student Name: firstname lastname' was found in the program output.None
+Timestamp: 2026-03-06 02:09:53.817447
+
+Status: PASSED!
+Check: 3
+Test: Update the comment with the **file name**
+Reason: 'File Name: rentals.html' was found in the program output.None
+Timestamp: 2026-03-06 02:09:53.817638
