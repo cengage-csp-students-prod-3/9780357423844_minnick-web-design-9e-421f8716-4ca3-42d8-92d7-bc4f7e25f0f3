@@ -234,7 +234,29 @@ footer a {
         grid-column: 1/span 3;
         font-size: 2em;
     }
-
+    /* Style rules for table */
+    table {
+        border:1px solid #2a1f14;
+        border-collapse: collapse;
+        margin: 0 auto 0 auto;
+    }
+    caption {
+        font-size: 1.5em;
+        font-weight: bold;
+        padding: 1%;
+    }
+    th, td {
+        border: 1px solid #2a1f14;
+        padding: 1%;
+    }
+    th {
+        background-color: 2a1f14;
+        color: white;
+        font-size: 1.15em;
+    }
+    tr:nth-child(odd) {
+        background-color: #deccba;
+    }
 }
 
 /* Media Query for Large Desktop Viewports */
