@@ -1,0 +1,27 @@
+
+Status: FAILED!
+Check: 1
+Test: Create a style rule for the fieldset and input selectors that sets the bottom margin to 2%
+Reason: Assertion failed: fieldset bottom margin is not 2%
+Error : AssertionError - fieldset bottom margin is not 2%
+Timestamp: 2026-03-06 02:14:34.295786
+
+Status: PASSED!
+Check: 2
+Test: Create a style rule for the fieldset legend selector that sets the font-weight to bold and font-size to 1.25em.
+Reason: None
+Timestamp: 2026-03-06 02:14:34.326808
+
+Status: FAILED!
+Check: 3
+Test: Create a style rule for the label selector that sets the display to a block and sets the top padding to 3%.
+Reason: Assertion failed: label padding-top is not 3%
+Error : AssertionError - label padding-top is not 3%
+Timestamp: 2026-03-06 02:14:34.361253
+
+Status: FAILED!
+Check: 4
+Test: Create a style rule for the form #submit selector that sets the top and bottom margin to 0, left and right margins to auto, display to block, padding to 3%, background-color to b7b7e1, and the font-size to 1em.
+Reason: Assertion failed: #submit background-color is not #b7b7e1
+Error : AssertionError - #submit background-color is not #b7b7e1
+Timestamp: 2026-03-06 02:14:34.420483
