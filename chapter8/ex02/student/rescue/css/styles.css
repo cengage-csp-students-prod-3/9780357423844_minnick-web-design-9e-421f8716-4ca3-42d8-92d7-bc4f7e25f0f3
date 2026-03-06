@@ -195,6 +195,10 @@ footer a {
     aside {
         grid-column: 1 / span 2;
     }
+    form {
+        width: 70%;
+        margin: 0px auto 0px auto;
+    }
 }
 
 /* Media Query for Desktop Viewport */
