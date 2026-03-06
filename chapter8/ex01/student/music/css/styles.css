@@ -73,8 +73,6 @@ font-weight: 400;
 font-style: italic;
 }
 
-}
-
 /* Style rules for navigation area */
 nav {
 background-color: #373684;
@@ -194,6 +192,32 @@ tr:nth-child(odd) {
     background-color: #b7b7e1;
 }
 
+/* Style rules for form elements */
+fieldset, input {
+    margin-bottom: 2%;
+}
+
+fieldset legend {
+    font-weight: bold;
+    font-size: 1.25em;
+}
+
+label {
+    display:block;
+    padding-top: 3%;
+}
+
+#submit {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+    padding:3%;
+    background-color: b7b7e1;
+    font-size: 1em;
+}
+
 /* Style rules for footer content */
 footer {
 text-align: center;
@@ -238,6 +262,12 @@ border-right:none;
 .map {
 width: 500px;
 height: 450px;
+}
+
+/*Tablet Viewport: Style rule for form element*/
+form {
+    width:70%;
+    margin: 0px, auto, 0px, auto;
 }
 
 nav li a {
@@ -306,6 +336,21 @@ aside {
 
 .grid {
     grid-template-columns: auto auto auto auto;
+}
+
+/*Desktop Viewport: Style rules for table element*/
+table {
+    width:70%;
+}
+
+/*Desktop Viewport: Style rules for form elements*/
+.form-grid {
+    display:grid;
+    grid-template-columns: auto auto;
+    grid-gap:20px;
+}
+.btn {
+    grid-column: 1 / span 2;
 }
 
 }
