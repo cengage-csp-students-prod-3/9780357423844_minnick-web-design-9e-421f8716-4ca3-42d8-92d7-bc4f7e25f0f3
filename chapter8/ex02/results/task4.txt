@@ -1,0 +1,14 @@
+
+Status: FAILED!
+Check: 1
+Test: Nest a `table` within the `partner` `div` element with the caption text "Sponsorship Opportunities" inside the table
+Reason: Assertion failed: The div element with id attribute value of partner does not exist
+Error : AssertionError - The div element with id attribute value of partner does not exist
+Timestamp: 2026-03-06 02:24:32.736667
+
+Status: FAILED!
+Check: 2
+Test: Insert seven rows within the table
+Reason: AttributeError occurred: 'NoneType' object has no attribute 'find'
+Error : AttributeError - 'NoneType' object has no attribute 'find'
+Timestamp: 2026-03-06 02:24:32.738272
