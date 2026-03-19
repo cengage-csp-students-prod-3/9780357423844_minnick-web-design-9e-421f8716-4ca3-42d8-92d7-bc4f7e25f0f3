@@ -2,19 +2,19 @@
 Status: FAILED!
 Check: 1
 Test: Captions track element added to the video element
-Reason: Assertion failed: The track element with the src attribute set to media/captions.vtt does not have the label attribute set to English captions
-Error : AssertionError - The track element with the src attribute set to media/captions.vtt does not have the label attribute set to English captions
-Timestamp: 2026-03-19 15:13:30.261387
+Reason: Assertion failed: The fallback text <p> element is not provided for legacy browsers that do not support the video element
+Error : AssertionError - The fallback text <p> element is not provided for legacy browsers that do not support the video element
+Timestamp: 2026-03-19 15:15:31.631704
 
 Status: PASSED!
 Check: 2
 Test: Descriptions track element added to the video element
 Reason: None
-Timestamp: 2026-03-19 15:13:30.263606
+Timestamp: 2026-03-19 15:15:31.635099
 
 Status: FAILED!
 Check: 3
 Test: Fallback text provided for legacy browsers that do not support the video element
 Reason: Assertion failed: The fallback text is not provided for legacy browsers that do not support the video element
 Error : AssertionError - The fallback text is not provided for legacy browsers that do not support the video element
-Timestamp: 2026-03-19 15:13:30.265661
+Timestamp: 2026-03-19 15:15:31.638327
