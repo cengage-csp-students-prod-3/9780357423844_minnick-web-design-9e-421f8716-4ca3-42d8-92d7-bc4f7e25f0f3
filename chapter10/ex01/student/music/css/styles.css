@@ -78,6 +78,28 @@ nav {
 background-color: #373684;
 }
 
+.mobile-nav a {
+    color: #fff;
+    text-align: center;
+    font-size: 2em;
+    text-decoration: none;
+    padding: 3%;
+    display: block;
+}
+
+.mobile-nav a.menu-icon {
+    display: block;
+    position: absolute;
+    right: 0; 
+    top: 0;  
+}
+  
+.menu-icon div {
+    height: 50px;
+    width: 50px;
+    background-color: #373684;
+}
+
 nav ul {
 list-style-type: none;
 text-align: center;
