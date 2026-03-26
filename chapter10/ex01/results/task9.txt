@@ -1,42 +1,36 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add a script element with the src attribute that points to the script.js file above the closing body tag in index.html
-Reason: Assertion failed: The src attribute of the script element is not set to scripts/script.js
-Error : AssertionError - The src attribute of the script element is not set to scripts/script.js
-Timestamp: 2026-03-26 13:38:14.016615
+Reason: None
+Timestamp: 2026-03-26 13:44:42.789192
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Add a script element with the src attribute that points to the script.js file above the closing body tag in contact.html
-Reason: Assertion failed: The src attribute of the script element is not set to scripts/script.js
-Error : AssertionError - The src attribute of the script element is not set to scripts/script.js
-Timestamp: 2026-03-26 13:38:14.019377
+Reason: None
+Timestamp: 2026-03-26 13:44:42.791801
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Add a script element with the src attribute that points to the script.js file above the closing body tag in instructors.html
-Reason: Assertion failed: The src attribute of the script element is not set to scripts/script.js
-Error : AssertionError - The src attribute of the script element is not set to scripts/script.js
-Timestamp: 2026-03-26 13:38:14.021286
+Reason: None
+Timestamp: 2026-03-26 13:44:42.793673
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Add a script element with the src attribute that points to the script.js file above the closing body tag in lessons.html
-Reason: Assertion failed: The src attribute of the script element is not set to scripts/script.js
-Error : AssertionError - The src attribute of the script element is not set to scripts/script.js
-Timestamp: 2026-03-26 13:38:14.023750
+Reason: None
+Timestamp: 2026-03-26 13:44:42.796072
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: Add a script element with the src attribute that points to the script.js file above the closing body tag in rentals.html
-Reason: Assertion failed: The src attribute of the script element is not set to scripts/script.js
-Error : AssertionError - The src attribute of the script element is not set to scripts/script.js
-Timestamp: 2026-03-26 13:38:14.027496
+Reason: None
+Timestamp: 2026-03-26 13:44:42.798294
 
-Status: FAILED!
+Status: PASSED!
 Check: 6
 Test: Add a script element with the src attribute that points to the script.js file above the closing body tag in template.html
-Reason: Assertion failed: The src attribute of the script element is not set to scripts/script.js
-Error : AssertionError - The src attribute of the script element is not set to scripts/script.js
-Timestamp: 2026-03-26 13:38:14.030237
+Reason: None
+Timestamp: 2026-03-26 13:44:42.799763
