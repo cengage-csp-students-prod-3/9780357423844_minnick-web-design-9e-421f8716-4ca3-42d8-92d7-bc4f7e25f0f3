@@ -80,7 +80,14 @@ font-style: italic;
 nav {
 background-color: #373684;
 }
+.nav-menu {
+    display: none; /* This ensures it's hidden on load */
+  }
 
+  /* Only show it when this class is added via JS */
+.nav-menu.is-active {
+display: block;
+}
 .mobile-nav a {
     color: #fff;
     text-align: center;
