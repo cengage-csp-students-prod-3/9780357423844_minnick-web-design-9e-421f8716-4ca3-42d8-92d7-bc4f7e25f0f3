@@ -4,6 +4,10 @@
  Date: 03/26/2026
  */
 
+//Global variables
+var answer = document.querySelector("#answer p");
+var heading = document.querySelector("#answer h2");
+
  //Hamburger menu function
 function menu() {
     var navlinks = document.getElementById("nav-links");
