@@ -3,52 +3,52 @@ Status: PASSED!
 Check: 1
 Test: Add a nav element with the class mobile-nav to index.html
 Reason: None
-Timestamp: 2026-03-26 13:45:07.317764
+Timestamp: 2026-03-26 14:31:24.262561
 
 Status: PASSED!
 Check: 2
 Test: Add a nav element with the class mobile-nav to lessons.html
 Reason: None
-Timestamp: 2026-03-26 13:45:07.320105
+Timestamp: 2026-03-26 14:31:24.265293
 
 Status: PASSED!
 Check: 3
 Test: Add a nav element with the class mobile-nav to instructors.html
 Reason: None
-Timestamp: 2026-03-26 13:45:07.322201
+Timestamp: 2026-03-26 14:31:24.267296
 
 Status: PASSED!
 Check: 4
 Test: Add a nav element with the class mobile-nav to rentals.html
 Reason: None
-Timestamp: 2026-03-26 13:45:07.324403
+Timestamp: 2026-03-26 14:31:24.269539
 
 Status: PASSED!
 Check: 5
 Test: Add a nav element with the class mobile-nav to contact.html
 Reason: None
-Timestamp: 2026-03-26 13:45:07.326811
+Timestamp: 2026-03-26 14:31:24.272076
 
 Status: PASSED!
 Check: 6
 Test: Add the correct links to the nav element in template.html
 Reason: None
-Timestamp: 2026-03-26 13:45:07.328184
+Timestamp: 2026-03-26 14:31:24.273467
 
 Status: PASSED!
 Check: 3
 Test: "Name" added to comment section of the file music/scripts/script.js
 Reason: 'Student Name: firstname lastname' was found in the program output.None
-Timestamp: 2026-03-26 13:45:21.213685
+Timestamp: 2026-03-26 14:31:42.159951
 
 Status: PASSED!
 Check: 4
 Test: "Filename" added to comment section of the file music/scripts/script.js
 Reason: 'File Name: script.js' was found in the program output.None
-Timestamp: 2026-03-26 13:45:21.213859
+Timestamp: 2026-03-26 14:31:42.160121
 
 Status: PASSED!
 Check: 5
 Test: "Date" added to comment section of the file music/scripts/script.js
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2026-03-26 13:45:21.214040
+Timestamp: 2026-03-26 14:31:42.160306

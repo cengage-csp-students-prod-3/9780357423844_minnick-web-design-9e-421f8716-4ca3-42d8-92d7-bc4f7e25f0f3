@@ -4,4 +4,4 @@ Check: 1
 Test: The mobile navigation area is displayed when clicking the hamburger button
 Reason: Assertion failed: The mobile navigation area is displayed before clicking the hamburger button
 Error : AssertionError - The mobile navigation area is displayed before clicking the hamburger button
-Timestamp: 2026-03-26 13:45:25.256549
+Timestamp: 2026-03-26 14:31:46.418376
