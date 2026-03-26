@@ -22,8 +22,8 @@ img {
 }
 
 /* Style rules for mobile viewport */
-.mobile {
-    display:block;
+.mobile, .mobile-nav {
+    display: none;
 }
 
 /*Style rules to show mobile class and hide tab-desk class*/
