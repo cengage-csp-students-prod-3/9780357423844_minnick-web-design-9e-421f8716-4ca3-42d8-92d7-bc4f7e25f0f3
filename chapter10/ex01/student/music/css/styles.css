@@ -285,7 +285,8 @@ display: none;
 /* Tablet Viewport: Style rule for header content */
 header h1 {
     margin: 0;
-    padding: 0;
+    padding: 0
+    ;
     font-size: 2em;
 }
 
