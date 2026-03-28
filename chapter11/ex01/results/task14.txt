@@ -3,17 +3,17 @@ Status: PASSED!
 Check: 1
 Test: In the new `social` `div`, add an image element and use the **facebook-logo.png**   file as the  `src` attribute.
 Reason: None
-Timestamp: 2026-03-28 14:37:13.428857
+Timestamp: 2026-03-28 14:42:58.751503
 
 Status: PASSED!
 Check: 2
 Test: In the new `social` `div`, add an image element and use the **Facebook logo** for the `alt` attribute.
 Reason: None
-Timestamp: 2026-03-28 14:37:13.430579
+Timestamp: 2026-03-28 14:42:58.753417
 
 Status: FAILED!
 Check: 3
 Test: In the new `social` `div`, add an image element and link it to **https://www.facebook.com**.
-Reason: Assertion failed: Image element is not a child of an anchor element
-Error : AssertionError - Image element is not a child of an anchor element
-Timestamp: 2026-03-28 14:37:13.432282
+Reason: Assertion failed: Image element is linked to None instead of https://www.facebook.com
+Error : AssertionError - Image element is linked to None instead of https://www.facebook.com
+Timestamp: 2026-03-28 14:42:58.755302
