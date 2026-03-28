@@ -1,0 +1,21 @@
+
+Status: FAILED!
+Check: 1
+Test: Open the *index.html* file and in the `footer` element, wrap the two paragraph elements within a `div` element that specifies a `class` attribute value of **copyright**. Indent the two paragraph elements within the `div`.
+Reason: Assertion failed: No div element with class attribute value of copyright found
+Error : AssertionError - No div element with class attribute value of copyright found
+Timestamp: 2026-03-28 14:05:14.661615
+
+Status: FAILED!
+Check: 2
+Test: First paragraph element in footer should contain the text **&copy; 2021 All Rights Reserved.**.
+Reason: AttributeError occurred: 'NoneType' object has no attribute 'find_all'
+Error : AttributeError - 'NoneType' object has no attribute 'find_all'
+Timestamp: 2026-03-28 14:05:14.664854
+
+Status: FAILED!
+Check: 3
+Test: Second paragraph element in footer should contain the text **lessons@strikeachord.net** and an href to the email.
+Reason: AttributeError occurred: 'NoneType' object has no attribute 'find_all'
+Error : AttributeError - 'NoneType' object has no attribute 'find_all'
+Timestamp: 2026-03-28 14:05:14.668505
