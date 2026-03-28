@@ -1,0 +1,6 @@
+
+Status: PASSED!
+Check: 1
+Test: Move the image files from the /resources folder to your rescue/images folder
+Reason: None
+Timestamp: 2026-03-28 14:56:51.300945
