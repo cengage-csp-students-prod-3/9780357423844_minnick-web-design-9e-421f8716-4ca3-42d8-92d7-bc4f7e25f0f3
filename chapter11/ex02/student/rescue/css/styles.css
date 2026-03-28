@@ -209,7 +209,7 @@ footer a {
     text-decoration: none;
 }
 
-.social {
+.social img {
     display: inline-block;
     padding: 4%;
 }
@@ -246,6 +246,17 @@ footer a {
     }
 
     /* Tablet Viewport: Style rules for footer area */
+    footer {
+        overflow: auto;
+    }
+    .copyright {
+        float: left;
+        width: 65%;
+    }
+    .social {
+        float: right;
+        width: 25%;
+    }
 }
 
 /* Media Query for Desktop Viewport */
