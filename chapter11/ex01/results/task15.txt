@@ -1,0 +1,20 @@
+
+Status: PASSED!
+Check: 1
+Test: Below the Facebook logo, add another image element and use the **twitter-logo.png** file as the `src` attribute.
+Reason: None
+Timestamp: 2026-03-28 14:10:14.005062
+
+Status: FAILED!
+Check: 2
+Test: Below the Facebook logo, add another image element and use the **Twitter logo** for the `alt` attribute.
+Reason: Assertion failed: Second image element in social div contains alt attribute value of Twitter Logo instead of Twitter logo
+Error : AssertionError - Second image element in social div contains alt attribute value of Twitter Logo instead of Twitter logo
+Timestamp: 2026-03-28 14:10:14.006919
+
+Status: FAILED!
+Check: 3
+Test: In the new `social` `div`, add an image element and link it to **https://www.facebook.com**.
+Reason: Assertion failed: Image element is not a child of an anchor element
+Error : AssertionError - Image element is not a child of an anchor element
+Timestamp: 2026-03-28 14:10:14.008908
