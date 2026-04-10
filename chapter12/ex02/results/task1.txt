@@ -1,7 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
-Test: The starter template code has been added to the file index.html
-Reason: Assertion failed: Bootstrap CSS link is missing
-Error : AssertionError - Bootstrap CSS link is missing
-Timestamp: 2026-04-10 03:21:20.230580
+Test: "Name" added to comment section of the file index.html
+Reason: 'Student Name: firstname lastname' was found in the program output.None
+Timestamp: 2026-04-10 03:21:38.391144
+
+Status: PASSED!
+Check: 2
+Test: "Date" added to comment section of the file index.html
+Reason: 'Date: MM/DD/YYYY' was found in the program output.None
+Timestamp: 2026-04-10 03:21:38.391395
